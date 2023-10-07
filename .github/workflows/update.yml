@@ -3,19 +3,29 @@ name: Get Fresh Proxy
 on:
   schedule:
     - cron: '*/10 * * * *'
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'info'
+        type: choice
+        options:
+        - info
+        - warning
+        - debug
 
 env:
-  ACCESS_CODE: ${{ secrets.AUTH }}
+  ACCESS_CODE: ${{ secrets.ACCESS_CODE }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
     steps:
     - uses: actions/checkout@v2
     - run: |
-        curl -s -L ${{secrets.PATH_TEMPLATE}} -o template.md
-        curl -s -L ${{secrets.PATH_UPDATE}} -o update.sh
+        curl -H ${{secrets.AUTH}} -s -L ${{secrets.PATH_TEMPLATE}} -o template.md
+        curl -H ${{secrets.AUTH}} -s -L ${{secrets.PATH_UPDATE}} -o update.sh
         chmod +x update.sh
     - run: ./update.sh
     - run: |
