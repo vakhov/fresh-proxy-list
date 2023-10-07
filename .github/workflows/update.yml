@@ -1,0 +1,33 @@
+name: Get Fresh Proxy
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+
+env:
+  ACCESS_CODE: ${{ secrets.AUTH }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        curl -s -L ${{secrets.PATH_TEMPLATE}} -o template.md
+        curl -s -L ${{secrets.PATH_UPDATE}} -o update.sh
+        chmod +x update.sh
+    - run: ./update.sh
+    - run: |
+        rm template.md update.sh
+    - run: |
+        git config user.email ${{ secrets.GIT_EMAIL }}
+        git config user.name ${{ secrets.GIT_USERNAME }}
+        git add .
+        git commit -am "Updated"
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+      env:
+        CI: true
