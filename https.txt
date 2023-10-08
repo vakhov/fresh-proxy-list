@@ -1,22 +1,45 @@
-123.182.59.190:8089
-124.167.20.48:7777
-131.186.37.99:8080
-155.94.134.166:3128
-194.62.98.172:3128
-20.111.54.16:80
-20.111.54.16:8123
-20.205.61.143:80
-20.205.61.143:8123
-20.206.106.192:80
-20.206.106.192:8123
-20.210.113.32:80
-20.210.113.32:8123
-20.24.43.214:80
-20.24.43.214:8123
-202.86.138.18:8080
-213.136.101.37:3128
-37.187.17.89:3128
-45.143.222.176:1453
-64.225.8.179:10005
-65.109.27.97:3128
-89.43.31.134:3128
+
+		
+		<br><br>
+		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bfdedbd2d6d1ffd7d6dbdad2c691d1ded2da">[email&#160;protected]</a><br><br>
+		Please check back in 2 hours  (20:00 Paris).
+		We're busy updating the server.<br>
+		Мы заняты обновлением сервера.<br>
+		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0c6d686165624c64656869617522626d6169">[email&#160;protected]</a>.
+		Пожалуйста, проверьте через 2 часа (21:00 Москва).<br>
+		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c3a2a7aeaaad83abaaa7a6aebaedada2aea6">[email&#160;protected]</a>。
+		我们正在更新服务器。<br>
+		请在2小时后再次查看。<br>
+	</div>
+	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
+	<h1>We'll be back.</h1>
+	<img src="https://hidemy.io/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">
+	<meta charset="UTF-8">
+	align-items: center;
+	color: #1C98D7;
+	display: flex;
+	flex-direction: column;
+	font-family: Arial;
+	height: 100%;
+	height: 100%;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+.cd {
+</div>
+</head>
+</html>
+</style>
+<body>
+<div class="cd">
+<head>
+<html>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+<style>
+<title>Maintenance</title>
+a,a:visited{
+html,body {
+}
+}
+}
