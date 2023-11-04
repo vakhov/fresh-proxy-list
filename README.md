@@ -2,7 +2,7 @@
 
 List of fresh, working proxies (http, https, socks4 & 5) servers.
 
-Updated at: `Sat Nov  4 12:59:29 UTC 2023`
+Updated at: `Sat Nov  4 13:19:35 UTC 2023`
 
 ## Download
 
