@@ -1,0 +1,70 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.min.js"></script>
+    <script src="static/script.js"></script>
+</head>
+
+<body>
+    <div ng-app="freshproxy">
+        <div class="container" data-ng-controller="proxyTableCtrl">
+            <div class="row" style="text-align: center">
+                <hr>
+                <h2 style="color: red" class="h2">{{ title }}</h2><a href="https://github.com/vakhov/fresh-proxy-list">View on Github</a>
+                <h4 style="color: grey" ng-show="title==='Proxies'">Last Updated on {{ lastUpdated | date }}</h4>
+                <hr>
+            </div>
+            <div class="row" style="text-align: center">
+                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.json')">Download as JSON</button>
+                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.csv')">Download as CSV</button>
+                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.txt')">Download as TXT</button>
+                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.phps')">Download as PHP</button>
+                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.xml')">Download as XML</button>
+                <hr>
+            </div>
+            <div class="row" ng-show="title==='Proxies'">
+                <div class="table-responsive">
+                    <table class="table table-hover" style="text-align: center">
+                        <thead>
+                            <tr style="background-color: #697c81;color: white">
+                                <td>#</td>
+                                <td>IP</td>
+                                <td>Port</td>
+                                <td>Country code</td>
+                                <td>Country name</td>
+                                <td>City</td>
+                                <td>Type</td>
+                                <td>Anonymity</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.ip"></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.port"></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.country_code"></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.country_name"></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.city"></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.type"></td>
+                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.anon_verbose"></td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="n in data | filter: search">
+                                <td>{{ $index+1 }}</td>
+                                <td>{{ n.ip }}</td>
+                                <td>{{ n.port }}</td>
+                                <td>{{ n.country_code }}</td>
+                                <td>{{ n.country_name }}</td>
+                                <td>{{ n.city }}</td>
+                                <td>{{ n.type }}</td>
+                                <td>{{ n.anon_verbose }}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

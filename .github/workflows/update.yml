@@ -27,7 +27,6 @@ jobs:
         curl -H ${{secrets.AUTH}} -s -L ${{secrets.PATH_TEMPLATE}} -o template.md
         curl -H ${{secrets.AUTH}} -s -L ${{secrets.PATH_UPDATE}} -o update.sh
         chmod +x update.sh
-        (echo -n '{"lastUpdated": "'; echo -n $(date); echo -n '", "proxies": '; cat proxylist.json; echo -n "}") > raw.json
     - run: ./update.sh
     - run: |
         rm template.md update.sh
