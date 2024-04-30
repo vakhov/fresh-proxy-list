@@ -7,7 +7,7 @@ List of fresh, working proxies (http, https, socks4 & 5) servers.
 ![GitHub last commit](https://img.shields.io/github/last-commit/vakhov/fresh-proxy-list)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vakhov/fresh-proxy-list/graphs/commit-activity)
 
-Updated at: `Mon Apr 29 23:57:28 UTC 2024`
+Updated at: `Tue Apr 30 01:16:09 UTC 2024`
 
 ## Download - By Type
 
