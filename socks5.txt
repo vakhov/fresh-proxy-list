@@ -1,45 +1,53 @@
-
-		
-		<br><br>
-		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="345550595d5a745c5d5051594d1a5a555951">[email&#160;protected]</a><br><br>
-		Please check back in 15 minutes.
-		We're busy updating the server.<br>
-		Мы заняты обновлением сервера.<br>
-		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="543530393d3a143c3d3031392d7a3a353931">[email&#160;protected]</a>
-		Пожалуйста, проверьте через 15 минут.<br>
-		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ceafaaa3a7a08ea6a7aaaba3b7e0a0afa3ab">[email&#160;protected]</a>
-		我们正在更新服务器。<br>
-		请在2小时后再次查看。<br>
-	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
-	</div>
-	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
-	<h1>We'll be back.</h1>
-	<meta charset="UTF-8">
-	align-items: center;
-	color: #1C98D7;
-	display: flex;
-	flex-direction: column;
-	font-family: Arial;
-	height: 100%;
-	height: 100%;
-	justify-content: center;
-	margin: 0;
-	padding: 0;
-	text-align: center;
-.cd {
-</div>
-</head>
-</html>
-</style>
-<body>
-<div class="cd">
-<head>
-<html>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
-<style>
-<title>Maintenance</title>
-a,a:visited{
-html,body {
-}
-}
-}
+109.123.254.43:3364
+128.199.202.122:1080
+139.162.78.109:1080
+161.35.70.249:1080
+171.244.140.160:2121
+173.249.33.122:2093
+176.114.130.149:1080
+176.99.2.43:1080
+178.178.6.143:1080
+178.47.140.26:1080
+184.170.245.148:4145
+185.125.18.9:2374
+192.252.215.5:16137
+192.252.220.89:4145
+194.182.187.78:1080
+195.239.209.142:1080
+199.102.104.70:4145
+199.204.248.154:57095
+199.229.254.129:4145
+206.220.175.2:4145
+31.163.196.65:1080
+31.25.24.67:1080
+46.146.204.156:1080
+46.146.204.175:1080
+46.146.220.180:1080
+46.164.226.252:1080
+46.241.57.29:1080
+46.8.33.220:1080
+5.180.19.140:1080
+5.183.70.46:1080
+51.75.126.150:12907
+51.75.126.150:45642
+51.75.126.150:49648
+51.75.126.150:50356
+51.89.21.99:27953
+51.89.21.99:59584
+66.29.154.103:1080
+68.71.247.130:4145
+69.61.200.104:36181
+72.49.49.11:31034
+81.200.241.173:1080
+83.221.194.199:1080
+85.172.55.81:1080
+89.148.195.249:1080
+89.35.237.187:1080
+91.134.140.160:2069
+91.92.155.207:1080
+93.113.63.73:1080
+94.23.222.122:31242
+94.23.222.122:34250
+94.23.222.122:63163
+94.230.127.180:1080
+95.188.84.149:1080
