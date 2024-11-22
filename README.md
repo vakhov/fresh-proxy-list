@@ -7,7 +7,7 @@ List of fresh, working proxies (HTTP, HTTPS, SOCKS4 & SOCKS5) servers.
 ![GitHub last commit](https://img.shields.io/github/last-commit/vakhov/fresh-proxy-list)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vakhov/fresh-proxy-list/graphs/commit-activity)
 
-Updated at: `Fri Nov 22 12:47:04 UTC 2024`
+Updated at: `Fri Nov 22 12:51:09 UTC 2024`
 
 ## Overview
 
@@ -80,7 +80,7 @@ Below are some examples of how you can use these proxy lists in different progra
 
 
 <details>
-  <summary>### C# Example (using HttpClient)</summary>
+  <summary>C# Example (using HttpClient)</summary>
 
 ```csharp
 using System;
@@ -113,7 +113,7 @@ class Program
 </details>
 
 <details>
-  <summary>### Go Example</summary>
+  <summary>Go Example</summary>
 
 ```go
 package main
@@ -160,7 +160,7 @@ func main() {
 </details>
 
 <details>
-  <summary>### Kotlin Example</summary>
+  <summary>Kotlin Example</summary>
 
 ```kotlin
 import java.io.BufferedReader
@@ -186,7 +186,7 @@ fun main() {
 </details>
 
 <details>
-  <summary>### Swift Example (using URLSession)</summary>
+  <summary>Swift Example (using URLSession)</summary>
 
 ```swift
 import Foundation
@@ -216,7 +216,7 @@ if let proxyList = try? String(contentsOfFile: "http.txt") {
 </details>
 
 <details>
-  <summary>### Swift Example (using Alamofire)</summary>
+  <summary>Swift Example (using Alamofire)</summary>
 
 ```swift
 import Alamofire
@@ -245,7 +245,7 @@ if let proxyList = try? String(contentsOfFile: "http.txt") {
 </details>
 
 <details>
-  <summary>### Python Example</summary>
+  <summary>Python Example</summary>
 
 ```python
 import requests
@@ -260,7 +260,7 @@ print(response.text)
 </details>
 
 <details>
-  <summary>### JavaScript Example</summary>
+  <summary>JavaScript Example</summary>
 
 ```javascript
 const axios = require('axios');
@@ -284,7 +284,7 @@ fs.readFile('http.txt', 'utf8', (err, data) => {
 </details>
 
 <details>
-  <summary>### Bash Example</summary>
+  <summary>Bash Example</summary>
 
 ```bash
 proxy=$(head -n 1 http.txt)
@@ -293,7 +293,7 @@ curl -x $proxy http://example.com
 </details>
 
 <details>
-  <summary>### PHP Example</summary>
+  <summary>PHP Example</summary>
 
 ```php
 <?php
@@ -314,7 +314,7 @@ echo $response;
 </details>
 
 <details>
-  <summary>### Ruby Example</summary>
+  <summary>Ruby Example</summary>
 
 ```ruby
 require 'net/http'
@@ -332,7 +332,7 @@ end
 </details>
 
 <details>
-  <summary>### Java Example</summary>
+  <summary>Java Example</summary>
 
 ```java
 import java.io.*;
