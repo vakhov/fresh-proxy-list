@@ -7,7 +7,7 @@ List of fresh, working proxies (HTTP, HTTPS, SOCKS4 & SOCKS5) servers.
 ![GitHub last commit](https://img.shields.io/github/last-commit/vakhov/fresh-proxy-list)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vakhov/fresh-proxy-list/graphs/commit-activity)
 
-Updated at: `Fri Nov 22 12:30:53 UTC 2024`
+Updated at: `Fri Nov 22 12:47:04 UTC 2024`
 
 ## Overview
 
@@ -79,7 +79,174 @@ curl -sL https://vakhov.github.io/fresh-proxy-list/proxylist.xml -o proxylist.xm
 Below are some examples of how you can use these proxy lists in different programming languages.
 
 
-### Python Example
+<details>
+  <summary>### C# Example (using HttpClient)</summary>
+
+```csharp
+using System;
+using System.IO;
+using System.Net.Http;
+using System.Net;
+using System.Threading.Tasks;
+
+class Program
+{
+    static async Task Main()
+    {
+        string[] proxies = File.ReadAllLines("http.txt");
+        string proxy = proxies[0];
+        string[] proxyParts = proxy.Split(':');
+
+        var httpClientHandler = new HttpClientHandler()
+        {
+            Proxy = new WebProxy(proxyParts[0], int.Parse(proxyParts[1])),
+            UseProxy = true,
+        };
+
+        HttpClient client = new HttpClient(httpClientHandler);
+        HttpResponseMessage response = await client.GetAsync("http://example.com");
+        string content = await response.Content.ReadAsStringAsync();
+        Console.WriteLine(content);
+    }
+}
+```
+</details>
+
+<details>
+  <summary>### Go Example</summary>
+
+```go
+package main
+
+import (
+    "bufio"
+    "fmt"
+    "net/http"
+    "net/url"
+    "os"
+    "strings"
+)
+
+func main() {
+    file, err := os.Open("http.txt")
+    if err != nil {
+        panic(err)
+    }
+    defer file.Close()
+
+    scanner := bufio.NewScanner(file)
+    scanner.Scan()
+    proxyLine := scanner.Text()
+    proxyURL, err := url.Parse("http://" + proxyLine)
+    if err != nil {
+        panic(err)
+    }
+
+    client := &http.Client{Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)}}
+    resp, err := client.Get("http://example.com")
+    if err != nil {
+        panic(err)
+    }
+    defer resp.Body.Close()
+
+    body, err := io.ReadAll(resp.Body)
+    if err != nil {
+        panic(err)
+    }
+
+    fmt.Println(string(body))
+}
+```
+</details>
+
+<details>
+  <summary>### Kotlin Example</summary>
+
+```kotlin
+import java.io.BufferedReader
+import java.io.File
+import java.net.HttpURLConnection
+import java.net.InetSocketAddress
+import java.net.Proxy
+import java.net.URL
+
+fun main() {
+    val proxies = File("http.txt").readLines()
+    val proxyParts = proxies[0].split(":")
+
+    val proxy = Proxy(Proxy.Type.HTTP, InetSocketAddress(proxyParts[0], proxyParts[1].toInt()))
+    val url = URL("http://example.com")
+    val connection = url.openConnection(proxy) as HttpURLConnection
+
+    connection.inputStream.bufferedReader().use(BufferedReader::readText).let {
+        println(it)
+    }
+}
+```
+</details>
+
+<details>
+  <summary>### Swift Example (using URLSession)</summary>
+
+```swift
+import Foundation
+
+if let proxyList = try? String(contentsOfFile: "http.txt") {
+    let proxies = proxyList.components(separatedBy: "\n")
+    let proxyParts = proxies[0].components(separatedBy: ":")
+
+    let config = URLSessionConfiguration.default
+    config.connectionProxyDictionary = [
+        kCFNetworkProxiesHTTPEnable: true,
+        kCFNetworkProxiesHTTPProxy: proxyParts[0],
+        kCFNetworkProxiesHTTPPort: Int(proxyParts[1]) ?? 8080
+    ] as [String : Any]
+
+    let session = URLSession(configuration: config)
+    let url = URL(string: "http://example.com")!
+
+    let task = session.dataTask(with: url) { data, response, error in
+        if let data = data, let responseString = String(data: data, encoding: .utf8) {
+            print(responseString)
+        }
+    }
+    task.resume()
+}
+```
+</details>
+
+<details>
+  <summary>### Swift Example (using Alamofire)</summary>
+
+```swift
+import Alamofire
+
+if let proxyList = try? String(contentsOfFile: "http.txt") {
+    let proxies = proxyList.components(separatedBy: "\n")
+    let proxyParts = proxies[0].components(separatedBy: ":")
+
+    let sessionManager = Session.default
+    sessionManager.sessionConfiguration.connectionProxyDictionary = [
+        kCFNetworkProxiesHTTPEnable: true,
+        kCFNetworkProxiesHTTPProxy: proxyParts[0],
+        kCFNetworkProxiesHTTPPort: Int(proxyParts[1]) ?? 8080
+    ]
+
+    sessionManager.request("http://example.com").responseString { response in
+        switch response.result {
+        case .success(let value):
+            print(value)
+        case .failure(let error):
+            print(error)
+        }
+    }
+}
+```
+</details>
+
+<details>
+  <summary>### Python Example</summary>
+
 ```python
 import requests
 
@@ -90,8 +257,11 @@ proxy = proxies[0].strip()
 response = requests.get('http://example.com', proxies={'http': proxy})
 print(response.text)
 ```
+</details>
 
-### JavaScript Example
+<details>
+  <summary>### JavaScript Example</summary>
+
 ```javascript
 const axios = require('axios');
 const fs = require('fs');
@@ -111,14 +281,20 @@ fs.readFile('http.txt', 'utf8', (err, data) => {
     .catch(error => console.error(error));
 });
 ```
+</details>
 
-### Bash Example
+<details>
+  <summary>### Bash Example</summary>
+
 ```bash
 proxy=$(head -n 1 http.txt)
 curl -x $proxy http://example.com
 ```
+</details>
 
-### PHP Example
+<details>
+  <summary>### PHP Example</summary>
+
 ```php
 <?php
 $proxies = file('http.txt', FILE_IGNORE_NEW_LINES);
@@ -135,8 +311,11 @@ $response = file_get_contents('http://example.com', false, $context);
 echo $response;
 ?>
 ```
+</details>
 
-### Ruby Example
+<details>
+  <summary>### Ruby Example</summary>
+
 ```ruby
 require 'net/http'
 
@@ -150,8 +329,11 @@ Net::HTTP.start(uri.host, uri.port, proxy[0], proxy[1].to_i) do |http|
   puts response.body
 end
 ```
+</details>
 
-### Java Example
+<details>
+  <summary>### Java Example</summary>
+
 ```java
 import java.io.*;
 import java.net.*;
@@ -182,6 +364,7 @@ public class ProxyExample {
     }
 }
 ```
+</details>
 
 ## Contributing
 
