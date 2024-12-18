@@ -1,70 +1,183 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Daily updated proxy lists: HTTP, HTTPS, SOCKS4, SOCKS5. Free, fast, and reliable proxies for web scraping, SEO tools, and online anonymity.">
+    <meta name="keywords"
+          content="proxy list, free proxy servers, HTTP proxies, SOCKS5 proxies, fast proxies, reliable proxies, web scraping, anonymity, updated proxies">
+    <meta name="author" content="Fresh Proxy Team">
+    <meta name="robots" content="index, follow">
+    <title>Fresh Proxy List</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.8.3/angular.min.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXX-Y"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'UA-XXXXX-Y');
+    </script>
     <script src="static/script.js"></script>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: 'Arial', sans-serif;
+        }
+
+        h2, h4 {
+            color: #ff4081;
+        }
+
+        .btn-primary {
+            background-color: #6200ea;
+            border-color: #6200ea;
+        }
+
+        .btn-primary:hover {
+            background-color: #3700b3;
+            border-color: #3700b3;
+        }
+
+        .btn-success {
+            background-color: #03dac6;
+            border-color: #03dac6;
+        }
+
+        .btn-success:hover {
+            background-color: #018786;
+            border-color: #018786;
+        }
+
+        .btn-danger {
+            background-color: #cf6679;
+            border-color: #cf6679;
+        }
+
+        .btn-danger:hover {
+            background-color: #b00020;
+            border-color: #b00020;
+        }
+
+        .table-hover thead tr {
+            background-color: #1f1f1f;
+            color: #e0e0e0;
+        }
+
+        .table-hover tbody tr {
+            background-color: #2c2c2c;
+        }
+
+        .table-hover tbody tr:hover {
+            background-color: #333333;
+        }
+
+        .form-control {
+            background-color: #1f1f1f;
+            color: #e0e0e0;
+            border: 1px solid #333333;
+        }
+
+        .form-control:focus {
+            background-color: #333333;
+            color: #ffffff;
+            border: 1px solid #6200ea;
+        }
+
+        @media (max-width: 768px) {
+            .table-responsive {
+                overflow-x: auto;
+            }
+
+            .table-hover td {
+                font-size: 12px;
+            }
+        }
+    </style>
 </head>
 
 <body>
-    <div ng-app="freshproxy">
-        <div class="container" data-ng-controller="proxyTableCtrl">
-            <div class="row" style="text-align: center">
-                <hr>
-                <h2 style="color: red" class="h2">{{ title }}</h2><a href="https://github.com/vakhov/fresh-proxy-list">View on Github</a>
-                <h4 style="color: grey" ng-show="title==='Proxies'">Last Updated on {{ lastUpdated | date }}</h4>
-                <hr>
-            </div>
-            <div class="row" style="text-align: center">
-                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.json')">Download as JSON</button>
-                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.csv')">Download as CSV</button>
-                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.txt')">Download as TXT</button>
-                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.phps')">Download as PHP</button>
-                <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.xml')">Download as XML</button>
-                <hr>
-            </div>
-            <div class="row" ng-show="title==='Proxies'">
-                <div class="table-responsive">
-                    <table class="table table-hover" style="text-align: center">
-                        <thead>
-                            <tr style="background-color: #697c81;color: white">
-                                <td>#</td>
-                                <td>IP</td>
-                                <td>Port</td>
-                                <td>Country code</td>
-                                <td>Country name</td>
-                                <td>City</td>
-                                <td>Type</td>
-                                <td>Anonymity</td>
-                            </tr>
-                            <tr>
-                                <td></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.ip"></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.port"></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.country_code"></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.country_name"></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.city"></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.type"></td>
-                                <td><input type="text" placeholder="Search" class="form-control" ng-model="search.anon_verbose"></td>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr ng-repeat="n in data | filter: search">
-                                <td>{{ $index+1 }}</td>
-                                <td>{{ n.ip }}</td>
-                                <td>{{ n.port }}</td>
-                                <td>{{ n.country_code }}</td>
-                                <td>{{ n.country_name }}</td>
-                                <td>{{ n.city }}</td>
-                                <td>{{ n.type }}</td>
-                                <td>{{ n.anon_verbose }}</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+<div ng-app="freshproxy">
+    <div class="container" data-ng-controller="proxyTableCtrl">
+        <div class="row" style="text-align: center">
+            <hr>
+            <h2>{{ title }}</h2>
+            <a href="https://github.com/vakhov/fresh-proxy-list" style="color: #03dac6;">View on Github</a>
+            <h4 ng-show="title==='Proxies'">Last Updated on {{ lastUpdated | date }}</h4>
+            <hr>
+        </div>
+        <div class="row" style="text-align: center">
+            <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.json')">Download as JSON
+            </button>
+            <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.csv')">Download as CSV
+            </button>
+            <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.txt')">Download as TXT
+            </button>
+            <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.phps')">Download as PHP
+            </button>
+            <button class="btn btn-primary" onclick="window.open('/fresh-proxy-list/proxylist.xml')">Download as XML
+            </button>
+            <button class="btn btn-success" onclick="exportToCSV()">Export All Proxies</button>
+            <button class="btn btn-danger" ng-click="clearCache()">Refresh Data</button>
+            <hr>
+        </div>
+        <div class="row" ng-show="title==='Proxies'">
+            <div class="table-responsive">
+                <table class="table table-hover" style="text-align: center">
+                    <thead>
+                    <tr>
+                        <td>#</td>
+                        <td>IP</td>
+                        <td>Port</td>
+                        <td>Country code</td>
+                        <td>Country name</td>
+                        <td>City</td>
+                        <td>Type</td>
+                        <td>Anonymity</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.ip"></td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.port"></td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.country_code">
+                        </td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.country_name">
+                        </td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.city"></td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.type"></td>
+                        <td><input type="text" placeholder="Search" class="form-control" ng-model="search.anon_verbose">
+                        </td>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr ng-repeat="n in data | filter: search">
+                        <td>{{ $index+1 }}</td>
+                        <td>{{ n.ip }}</td>
+                        <td>{{ n.port }}</td>
+                        <td>{{ n.country_code }}</td>
+                        <td>{{ n.country_name }}</td>
+                        <td>{{ n.city }}</td>
+                        <td>{{ n.type }}</td>
+                        <td>{{ n.anon_verbose }}</td>
+                    </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>
+</div>
+<script>
+    function exportToCSV() {
+        window.open('/fresh-proxy-list/proxylist.csv');
+    }
+</script>
 </body>
 
 </html>
