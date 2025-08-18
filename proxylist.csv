@@ -1,5 +1,2 @@
 host;ip;port;lastseen;delay;cid;country_code;country_name;city;checks_up;checks_down;anon;http;ssl;socks4;socks5
-159.69.57.20;159.69.57.20;8880;192;700;2927913;DE;Germany;Falkenstein;1320;599;4;1;0;0;0
-91.84.99.28;91.84.99.28;80;1666;2980;2759794;NL;Netherlands;Amsterdam;159;155;4;1;0;0;0
-90.156.169.163;90.156.169.163;80;2768;3640;2017370;RU;Russian Federation;;107;147;4;1;0;0;0
-eric.ns.cloudflare.com;173.245.59.112;80;10729;20;0;;;;3391;155;1;1;0;0;0
+91.84.99.28;91.84.99.28;80;177;4460;2759794;NL;Netherlands;Amsterdam;160;155;4;0;1;0;0
