@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <response>
 <item id="0">
+<host>194.158.203.14</host>
+<ip>194.158.203.14</ip>
+<port>80</port>
+<lastseen>975</lastseen>
+<delay>1100</delay>
+<cid>625144</cid>
+<country_code>BY</country_code>
+<country_name>Belarus</country_name>
+<city>Minsk</city>
+<checks_up>3310</checks_up>
+<checks_down>214</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="1">
 <host>91.84.99.28</host>
 <ip>91.84.99.28</ip>
 <port>80</port>
-<lastseen>2293</lastseen>
+<lastseen>3684</lastseen>
 <delay>4460</delay>
 <cid>2759794</cid>
 <country_code>NL</country_code>
