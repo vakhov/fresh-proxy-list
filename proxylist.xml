@@ -1,21 +1,3 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <response>
-<item id="0">
-<host>82.200.235.134</host>
-<ip>82.200.235.134</ip>
-<port>18508</port>
-<lastseen>10588</lastseen>
-<delay>5100</delay>
-<cid>610529</cid>
-<country_code>KZ</country_code>
-<country_name>Kazakstan</country_name>
-<city>Atyrau</city>
-<checks_up>102</checks_up>
-<checks_down>166</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
 </response>
