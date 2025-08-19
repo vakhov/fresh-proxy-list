@@ -1,1 +1,1 @@
-a:0:{}
+a:1:{i:0;a:16:{s:4:"host";s:13:"185.10.129.14";s:2:"ip";s:13:"185.10.129.14";s:4:"port";s:4:"3128";s:8:"lastseen";i:484;s:5:"delay";i:60;s:3:"cid";s:6:"468902";s:12:"country_code";s:2:"RU";s:12:"country_name";s:18:"Russian Federation";s:4:"city";s:9:"Yaroslavl";s:9:"checks_up";s:5:"12860";s:11:"checks_down";s:4:"3724";s:4:"anon";s:1:"4";s:4:"http";s:1:"1";s:3:"ssl";s:1:"0";s:6:"socks4";s:1:"0";s:6:"socks5";s:1:"0";}}

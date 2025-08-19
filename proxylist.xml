@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <response>
+<item id="0">
+<host>185.10.129.14</host>
+<ip>185.10.129.14</ip>
+<port>3128</port>
+<lastseen>485</lastseen>
+<delay>60</delay>
+<cid>468902</cid>
+<country_code>RU</country_code>
+<country_name>Russian Federation</country_name>
+<city>Yaroslavl</city>
+<checks_up>12860</checks_up>
+<checks_down>3724</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
 </response>
