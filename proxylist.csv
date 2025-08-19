@@ -1,3 +1,7 @@
 host;ip;port;lastseen;delay;cid;country_code;country_name;city;checks_up;checks_down;anon;http;ssl;socks4;socks5
-185.10.129.14;185.10.129.14;3128;647;60;468902;RU;Russian Federation;Yaroslavl;12861;3725;4;0;1;0;0
-37.157.217.144;37.157.217.144;10810;8812;3280;616052;AM;Armenia;Yerevan;537;1870;4;0;0;0;1
+mobile.shopify.com;185.146.173.20;80;897;20;2661886;SE;Sweden;;3577;168;1;1;0;0;0
+events.insperity.com;141.193.213.20;80;897;20;6252001;US;United States;;3520;158;1;1;0;0;0
+185.162.230.216;185.162.230.216;80;897;40;174982;AM;Armenia;;13532;340;1;1;0;0;0
+185.54.178.193;185.54.178.193;1080;1296;740;2025527;RU;Russian Federation;Cheremkhovo;2654;4441;4;0;0;0;1
+185.10.129.14;185.10.129.14;3128;1943;60;468902;RU;Russian Federation;Yaroslavl;12861;3725;4;0;1;0;0
+37.157.217.144;37.157.217.144;10810;10108;3280;616052;AM;Armenia;Yerevan;537;1870;4;0;0;0;1
