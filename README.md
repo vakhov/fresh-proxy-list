@@ -7,7 +7,7 @@ Welcome to **Fresh Proxy List**, a repository dedicated to providing continuousl
 ![GitHub last commit](https://img.shields.io/github/last-commit/vakhov/fresh-proxy-list)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vakhov/fresh-proxy-list/graphs/commit-activity)
 
-Updated at: `Sat Sep  6 23:55:55 UTC 2025`
+Updated at: `Sun Sep  7 01:42:51 UTC 2025`
 
 ## 🚀 Why Choose Fresh Proxy List?
 
