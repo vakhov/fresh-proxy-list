@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <response>
 <item id="0">
-<host>141.101.120.202</host>
-<ip>141.101.120.202</ip>
+<host>192.111.129.145</host>
+<ip>192.111.129.145</ip>
+<port>16894</port>
+<lastseen>58</lastseen>
+<delay>940</delay>
+<cid>6167865</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>Toronto</city>
+<checks_up>40755</checks_up>
+<checks_down>32197</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="1">
+<host>141.101.120.30</host>
+<ip>141.101.120.30</ip>
 <port>80</port>
-<lastseen>112</lastseen>
-<delay>3340</delay>
+<lastseen>98</lastseen>
+<delay>100</delay>
 <cid>6255149</cid>
 <country_code></country_code>
 <country_name></country_name>
 <city></city>
-<checks_up>9899</checks_up>
-<checks_down>337</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="1">
-<host>31.43.179.114</host>
-<ip>31.43.179.114</ip>
-<port>80</port>
-<lastseen>112</lastseen>
-<delay>3320</delay>
-<cid>1522867</cid>
-<country_code>KZ</country_code>
-<country_name>Kazakstan</country_name>
-<city></city>
-<checks_up>11973</checks_up>
-<checks_down>471</checks_down>
+<checks_up>9916</checks_up>
+<checks_down>343</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
@@ -37,17 +37,17 @@
 <socks5>0</socks5>
 </item>
 <item id="2">
-<host>141.101.123.207</host>
-<ip>141.101.123.207</ip>
+<host>159.112.235.240</host>
+<ip>159.112.235.240</ip>
 <port>80</port>
-<lastseen>115</lastseen>
-<delay>100</delay>
-<cid>6255149</cid>
-<country_code></country_code>
-<country_name></country_name>
+<lastseen>98</lastseen>
+<delay>20</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
 <city></city>
-<checks_up>9812</checks_up>
-<checks_down>345</checks_down>
+<checks_up>9071</checks_up>
+<checks_down>357</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
@@ -55,10 +55,532 @@
 <socks5>0</socks5>
 </item>
 <item id="3">
+<host>45.131.6.210</host>
+<ip>45.131.6.210</ip>
+<port>80</port>
+<lastseen>98</lastseen>
+<delay>40</delay>
+<cid>2750405</cid>
+<country_code>NL</country_code>
+<country_name>Netherlands</country_name>
+<city></city>
+<checks_up>6849</checks_up>
+<checks_down>349</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="4">
+<host>45.12.30.213</host>
+<ip>45.12.30.213</ip>
+<port>80</port>
+<lastseen>157</lastseen>
+<delay>60</delay>
+<cid>798549</cid>
+<country_code>RO</country_code>
+<country_name>Romania</country_name>
+<city></city>
+<checks_up>13631</checks_up>
+<checks_down>492</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="5">
+<host>172.67.188.7</host>
+<ip>172.67.188.7</ip>
+<port>80</port>
+<lastseen>277</lastseen>
+<delay>640</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>11354</checks_up>
+<checks_down>402</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="6">
+<host>172.67.202.243</host>
+<ip>172.67.202.243</ip>
+<port>80</port>
+<lastseen>278</lastseen>
+<delay>80</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>10632</checks_up>
+<checks_down>402</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="7">
+<host>204.69.207.13</host>
+<ip>204.69.207.13</ip>
+<port>80</port>
+<lastseen>278</lastseen>
+<delay>20</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>566</checks_up>
+<checks_down>313</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="8">
+<host>45.159.217.186</host>
+<ip>45.159.217.186</ip>
+<port>80</port>
+<lastseen>278</lastseen>
+<delay>20</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>371</checks_up>
+<checks_down>322</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="9">
+<host>185.170.166.74</host>
+<ip>185.170.166.74</ip>
+<port>80</port>
+<lastseen>278</lastseen>
+<delay>520</delay>
+<cid>2635167</cid>
+<country_code>GB</country_code>
+<country_name>United Kingdom</country_name>
+<city></city>
+<checks_up>8402</checks_up>
+<checks_down>364</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="10">
+<host>45.131.208.16</host>
+<ip>45.131.208.16</ip>
+<port>80</port>
+<lastseen>278</lastseen>
+<delay>20</delay>
+<cid>2750405</cid>
+<country_code>NL</country_code>
+<country_name>Netherlands</country_name>
+<city></city>
+<checks_up>8141</checks_up>
+<checks_down>362</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="11">
+<host>164.38.155.17</host>
+<ip>164.38.155.17</ip>
+<port>80</port>
+<lastseen>278</lastseen>
+<delay>40</delay>
+<cid>2635167</cid>
+<country_code>GB</country_code>
+<country_name>United Kingdom</country_name>
+<city></city>
+<checks_up>7946</checks_up>
+<checks_down>363</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="12">
+<host>98.182.147.97</host>
+<ip>98.182.147.97</ip>
+<port>4145</port>
+<lastseen>285</lastseen>
+<delay>880</delay>
+<cid>5506956</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Las Vegas</city>
+<checks_up>1212</checks_up>
+<checks_down>25</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="13">
+<host>185.193.31.212</host>
+<ip>185.193.31.212</ip>
+<port>80</port>
+<lastseen>398</lastseen>
+<delay>20</delay>
+<cid>2635167</cid>
+<country_code>GB</country_code>
+<country_name>United Kingdom</country_name>
+<city></city>
+<checks_up>509</checks_up>
+<checks_down>344</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="14">
+<host>172.64.149.17</host>
+<ip>172.64.149.17</ip>
+<port>80</port>
+<lastseen>398</lastseen>
+<delay>40</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>9166</checks_up>
+<checks_down>334</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="15">
+<host>185.162.231.95</host>
+<ip>185.162.231.95</ip>
+<port>80</port>
+<lastseen>398</lastseen>
+<delay>40</delay>
+<cid>174982</cid>
+<country_code>AM</country_code>
+<country_name>Armenia</country_name>
+<city></city>
+<checks_up>13569</checks_up>
+<checks_down>515</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="16">
+<host>172.67.171.219</host>
+<ip>172.67.171.219</ip>
+<port>80</port>
+<lastseen>517</lastseen>
+<delay>100</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>13551</checks_up>
+<checks_down>425</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="17">
+<host>185.238.228.196</host>
+<ip>185.238.228.196</ip>
+<port>80</port>
+<lastseen>638</lastseen>
+<delay>40</delay>
+<cid>2510769</cid>
+<country_code>ES</country_code>
+<country_name>Spain</country_name>
+<city></city>
+<checks_up>7625</checks_up>
+<checks_down>358</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="18">
+<host>45.131.4.232</host>
+<ip>45.131.4.232</ip>
+<port>80</port>
+<lastseen>638</lastseen>
+<delay>800</delay>
+<cid>2750405</cid>
+<country_code>NL</country_code>
+<country_name>Netherlands</country_name>
+<city></city>
+<checks_up>9901</checks_up>
+<checks_down>411</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="19">
+<host>45.131.6.148</host>
+<ip>45.131.6.148</ip>
+<port>80</port>
+<lastseen>758</lastseen>
+<delay>20</delay>
+<cid>2750405</cid>
+<country_code>NL</country_code>
+<country_name>Netherlands</country_name>
+<city></city>
+<checks_up>9730</checks_up>
+<checks_down>394</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="20">
+<host>141.101.123.82</host>
+<ip>141.101.123.82</ip>
+<port>80</port>
+<lastseen>758</lastseen>
+<delay>100</delay>
+<cid>6255149</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>9887</checks_up>
+<checks_down>341</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="21">
+<host>172.67.181.93</host>
+<ip>172.67.181.93</ip>
+<port>80</port>
+<lastseen>758</lastseen>
+<delay>100</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>21602</checks_up>
+<checks_down>465</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="22">
+<host>199.34.228.97</host>
+<ip>199.34.228.97</ip>
+<port>80</port>
+<lastseen>758</lastseen>
+<delay>20</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>399</checks_up>
+<checks_down>330</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="23">
+<host>172.67.185.153</host>
+<ip>172.67.185.153</ip>
+<port>80</port>
+<lastseen>758</lastseen>
+<delay>60</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>11382</checks_up>
+<checks_down>415</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="24">
+<host>102.177.176.110</host>
+<ip>102.177.176.110</ip>
+<port>80</port>
+<lastseen>794</lastseen>
+<delay>40</delay>
+<cid>953987</cid>
+<country_code>ZA</country_code>
+<country_name>South Africa</country_name>
+<city></city>
+<checks_up>480</checks_up>
+<checks_down>366</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="25">
+<host>31.43.179.114</host>
+<ip>31.43.179.114</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>40</delay>
+<cid>1522867</cid>
+<country_code>KZ</country_code>
+<country_name>Kazakstan</country_name>
+<city></city>
+<checks_up>11974</checks_up>
+<checks_down>471</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="26">
+<host>190.93.244.226</host>
+<ip>190.93.244.226</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>20</delay>
+<cid>5392171</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>San Jose</city>
+<checks_up>8925</checks_up>
+<checks_down>344</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="27">
+<host>45.12.30.136</host>
+<ip>45.12.30.136</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>40</delay>
+<cid>798549</cid>
+<country_code>RO</country_code>
+<country_name>Romania</country_name>
+<city></city>
+<checks_up>13635</checks_up>
+<checks_down>484</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="28">
+<host>45.85.118.33</host>
+<ip>45.85.118.33</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>40</delay>
+<cid>798549</cid>
+<country_code>RO</country_code>
+<country_name>Romania</country_name>
+<city></city>
+<checks_up>482</checks_up>
+<checks_down>325</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="29">
+<host>141.101.123.207</host>
+<ip>141.101.123.207</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>80</delay>
+<cid>6255149</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>9813</checks_up>
+<checks_down>345</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="30">
+<host>141.101.120.202</host>
+<ip>141.101.120.202</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>80</delay>
+<cid>6255149</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>9900</checks_up>
+<checks_down>337</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="31">
+<host>188.114.96.68</host>
+<ip>188.114.96.68</ip>
+<port>80</port>
+<lastseen>879</lastseen>
+<delay>80</delay>
+<cid>2759794</cid>
+<country_code>NL</country_code>
+<country_name>Netherlands</country_name>
+<city>Amsterdam</city>
+<checks_up>9758</checks_up>
+<checks_down>390</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="32">
 <host>72.205.0.67</host>
 <ip>72.205.0.67</ip>
 <port>4145</port>
-<lastseen>168</lastseen>
+<lastseen>991</lastseen>
 <delay>880</delay>
 <cid>4760059</cid>
 <country_code>US</country_code>
@@ -72,11 +594,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="4">
+<item id="33">
 <host>185.88.177.197</host>
 <ip>185.88.177.197</ip>
 <port>80</port>
-<lastseen>171</lastseen>
+<lastseen>994</lastseen>
 <delay>2040</delay>
 <cid>130758</cid>
 <country_code>IR</country_code>
@@ -90,65 +612,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="5">
-<host>172.67.180.87</host>
-<ip>172.67.180.87</ip>
-<port>80</port>
-<lastseen>173</lastseen>
-<delay>760</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>1412</checks_up>
-<checks_down>334</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="6">
-<host>23.227.39.222</host>
-<ip>23.227.39.222</ip>
-<port>80</port>
-<lastseen>173</lastseen>
-<delay>2180</delay>
-<cid>6094817</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>Ottawa</city>
-<checks_up>8833</checks_up>
-<checks_down>336</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="7">
-<host>172.67.139.128</host>
-<ip>172.67.139.128</ip>
-<port>80</port>
-<lastseen>173</lastseen>
-<delay>2180</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>2833</checks_up>
-<checks_down>331</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="8">
+<item id="34">
 <host>45.12.31.160</host>
 <ip>45.12.31.160</ip>
 <port>80</port>
-<lastseen>173</lastseen>
+<lastseen>996</lastseen>
 <delay>2180</delay>
 <cid>798549</cid>
 <country_code>RO</country_code>
@@ -162,11 +630,65 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="9">
+<item id="35">
+<host>23.227.39.222</host>
+<ip>23.227.39.222</ip>
+<port>80</port>
+<lastseen>996</lastseen>
+<delay>2180</delay>
+<cid>6094817</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>Ottawa</city>
+<checks_up>8833</checks_up>
+<checks_down>336</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="36">
+<host>172.67.139.128</host>
+<ip>172.67.139.128</ip>
+<port>80</port>
+<lastseen>996</lastseen>
+<delay>2180</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>2833</checks_up>
+<checks_down>331</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="37">
+<host>172.67.180.87</host>
+<ip>172.67.180.87</ip>
+<port>80</port>
+<lastseen>996</lastseen>
+<delay>760</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>1412</checks_up>
+<checks_down>334</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="38">
 <host>66.235.200.155</host>
 <ip>66.235.200.155</ip>
 <port>80</port>
-<lastseen>173</lastseen>
+<lastseen>996</lastseen>
 <delay>2160</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -180,11 +702,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="10">
+<item id="39">
 <host>141.101.120.82</host>
 <ip>141.101.120.82</ip>
 <port>80</port>
-<lastseen>175</lastseen>
+<lastseen>998</lastseen>
 <delay>100</delay>
 <cid>6255149</cid>
 <country_code></country_code>
@@ -198,29 +720,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="11">
-<host>172.64.92.16</host>
-<ip>172.64.92.16</ip>
-<port>80</port>
-<lastseen>175</lastseen>
-<delay>80</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>1466</checks_up>
-<checks_down>333</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="12">
+<item id="40">
 <host>185.238.228.49</host>
 <ip>185.238.228.49</ip>
 <port>80</port>
-<lastseen>175</lastseen>
+<lastseen>998</lastseen>
 <delay>20</delay>
 <cid>2510769</cid>
 <country_code>ES</country_code>
@@ -234,11 +738,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="13">
+<item id="41">
 <host>141.101.120.46</host>
 <ip>141.101.120.46</ip>
 <port>80</port>
-<lastseen>175</lastseen>
+<lastseen>998</lastseen>
 <delay>100</delay>
 <cid>6255149</cid>
 <country_code></country_code>
@@ -252,11 +756,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="14">
+<item id="42">
+<host>172.64.92.16</host>
+<ip>172.64.92.16</ip>
+<port>80</port>
+<lastseen>998</lastseen>
+<delay>80</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>1466</checks_up>
+<checks_down>333</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="43">
 <host>195.158.8.123</host>
 <ip>195.158.8.123</ip>
 <port>3128</port>
-<lastseen>250</lastseen>
+<lastseen>1073</lastseen>
 <delay>3420</delay>
 <cid>1512569</cid>
 <country_code>UZ</country_code>
@@ -270,11 +792,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="15">
+<item id="44">
 <host>208.65.90.3</host>
 <ip>208.65.90.3</ip>
 <port>4145</port>
-<lastseen>253</lastseen>
+<lastseen>1076</lastseen>
 <delay>4280</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -288,11 +810,11 @@
 <socks4>0</socks4>
 <socks5>1</socks5>
 </item>
-<item id="16">
+<item id="45">
 <host>43.224.118.206</host>
 <ip>43.224.118.206</ip>
 <port>8989</port>
-<lastseen>254</lastseen>
+<lastseen>1077</lastseen>
 <delay>4480</delay>
 <cid>1210997</cid>
 <country_code>BD</country_code>
@@ -306,11 +828,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="17">
+<item id="46">
 <host>198.177.253.13</host>
 <ip>198.177.253.13</ip>
 <port>4145</port>
-<lastseen>254</lastseen>
+<lastseen>1077</lastseen>
 <delay>1920</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -324,11 +846,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="18">
+<item id="47">
 <host>222.252.194.29</host>
 <ip>222.252.194.29</ip>
 <port>8080</port>
-<lastseen>255</lastseen>
+<lastseen>1078</lastseen>
 <delay>1040</delay>
 <cid>1581130</cid>
 <country_code>VN</country_code>
@@ -342,29 +864,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="19">
-<host>43.156.183.112</host>
-<ip>43.156.183.112</ip>
-<port>1080</port>
-<lastseen>256</lastseen>
-<delay>1380</delay>
-<cid>1880252</cid>
-<country_code>SG</country_code>
-<country_name>Singapore</country_name>
-<city>Singapore</city>
-<checks_up>896</checks_up>
-<checks_down>412</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="20">
+<item id="48">
 <host>115.231.181.40</host>
 <ip>115.231.181.40</ip>
 <port>8128</port>
-<lastseen>256</lastseen>
+<lastseen>1079</lastseen>
 <delay>1120</delay>
 <cid>1814991</cid>
 <country_code>CN</country_code>
@@ -378,11 +882,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="21">
+<item id="49">
+<host>43.156.183.112</host>
+<ip>43.156.183.112</ip>
+<port>1080</port>
+<lastseen>1079</lastseen>
+<delay>1380</delay>
+<cid>1880252</cid>
+<country_code>SG</country_code>
+<country_name>Singapore</country_name>
+<city>Singapore</city>
+<checks_up>896</checks_up>
+<checks_down>412</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="50">
 <host>34.41.115.197</host>
 <ip>34.41.115.197</ip>
 <port>3128</port>
-<lastseen>257</lastseen>
+<lastseen>1080</lastseen>
 <delay>1120</delay>
 <cid>4852832</cid>
 <country_code>US</country_code>
@@ -396,11 +918,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="22">
+<item id="51">
 <host>82.200.235.134</host>
 <ip>82.200.235.134</ip>
 <port>51614</port>
-<lastseen>257</lastseen>
+<lastseen>1080</lastseen>
 <delay>1200</delay>
 <cid>1526384</cid>
 <country_code>KZ</country_code>
@@ -414,11 +936,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="23">
+<item id="52">
 <host>89.43.31.134</host>
 <ip>89.43.31.134</ip>
 <port>3128</port>
-<lastseen>258</lastseen>
+<lastseen>1081</lastseen>
 <delay>480</delay>
 <cid>298795</cid>
 <country_code>TR</country_code>
@@ -432,65 +954,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="24">
-<host>43.135.36.240</host>
-<ip>43.135.36.240</ip>
-<port>80</port>
-<lastseen>260</lastseen>
-<delay>800</delay>
-<cid>1819729</cid>
-<country_code>HK</country_code>
-<country_name>Hong Kong</country_name>
-<city>Hong Kong</city>
-<checks_up>1826</checks_up>
-<checks_down>28</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="25">
-<host>198.177.254.157</host>
-<ip>198.177.254.157</ip>
-<port>4145</port>
-<lastseen>260</lastseen>
-<delay>1400</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>1170</checks_up>
-<checks_down>498</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="26">
-<host>192.252.214.17</host>
-<ip>192.252.214.17</ip>
-<port>4145</port>
-<lastseen>260</lastseen>
-<delay>980</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>1591</checks_up>
-<checks_down>654</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="27">
+<item id="53">
 <host>192.252.211.193</host>
 <ip>192.252.211.193</ip>
 <port>4145</port>
-<lastseen>260</lastseen>
+<lastseen>1083</lastseen>
 <delay>960</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -504,11 +972,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="28">
+<item id="54">
 <host>72.49.49.11</host>
 <ip>72.49.49.11</ip>
 <port>31034</port>
-<lastseen>260</lastseen>
+<lastseen>1083</lastseen>
 <delay>2700</delay>
 <cid>4508722</cid>
 <country_code>US</country_code>
@@ -522,11 +990,65 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="29">
+<item id="55">
+<host>198.177.254.157</host>
+<ip>198.177.254.157</ip>
+<port>4145</port>
+<lastseen>1083</lastseen>
+<delay>1400</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>1170</checks_up>
+<checks_down>498</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="56">
+<host>43.135.36.240</host>
+<ip>43.135.36.240</ip>
+<port>80</port>
+<lastseen>1083</lastseen>
+<delay>800</delay>
+<cid>1819729</cid>
+<country_code>HK</country_code>
+<country_name>Hong Kong</country_name>
+<city>Hong Kong</city>
+<checks_up>1826</checks_up>
+<checks_down>28</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="57">
+<host>192.252.214.17</host>
+<ip>192.252.214.17</ip>
+<port>4145</port>
+<lastseen>1083</lastseen>
+<delay>980</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>1591</checks_up>
+<checks_down>654</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="58">
 <host>49.207.36.81</host>
 <ip>49.207.36.81</ip>
 <port>80</port>
-<lastseen>260</lastseen>
+<lastseen>1083</lastseen>
 <delay>1180</delay>
 <cid>1264527</cid>
 <country_code>IN</country_code>
@@ -540,101 +1062,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="30">
-<host>192.111.137.34</host>
-<ip>192.111.137.34</ip>
-<port>18765</port>
-<lastseen>261</lastseen>
-<delay>960</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>24809</checks_up>
-<checks_down>26255</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="31">
-<host>68.71.251.134</host>
-<ip>68.71.251.134</ip>
-<port>4145</port>
-<lastseen>261</lastseen>
-<delay>1020</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>6961</checks_up>
-<checks_down>1530</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="32">
-<host>142.54.226.214</host>
-<ip>142.54.226.214</ip>
-<port>4145</port>
-<lastseen>261</lastseen>
-<delay>1000</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>24737</checks_up>
-<checks_down>13172</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="33">
-<host>192.252.215.5</host>
-<ip>192.252.215.5</ip>
-<port>16137</port>
-<lastseen>261</lastseen>
-<delay>940</delay>
-<cid>6167865</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>Toronto</city>
-<checks_up>45757</checks_up>
-<checks_down>25688</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="34">
-<host>199.102.105.242</host>
-<ip>199.102.105.242</ip>
-<port>4145</port>
-<lastseen>261</lastseen>
-<delay>1040</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>19137</checks_up>
-<checks_down>10681</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="35">
+<item id="59">
 <host>104.200.152.30</host>
 <ip>104.200.152.30</ip>
 <port>4145</port>
-<lastseen>261</lastseen>
+<lastseen>1084</lastseen>
 <delay>1000</delay>
 <cid>5368361</cid>
 <country_code>US</country_code>
@@ -648,137 +1080,101 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="36">
-<host>66.42.224.229</host>
-<ip>66.42.224.229</ip>
-<port>41679</port>
-<lastseen>262</lastseen>
-<delay>1800</delay>
-<cid>4508722</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Cincinnati</city>
-<checks_up>65535</checks_up>
-<checks_down>10168</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="37">
-<host>184.170.245.148</host>
-<ip>184.170.245.148</ip>
+<item id="60">
+<host>68.71.251.134</host>
+<ip>68.71.251.134</ip>
 <port>4145</port>
-<lastseen>262</lastseen>
-<delay>920</delay>
+<lastseen>1084</lastseen>
+<delay>1020</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>22134</checks_up>
-<checks_down>20084</checks_down>
+<checks_up>6961</checks_up>
+<checks_down>1530</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="38">
-<host>198.8.94.174</host>
-<ip>198.8.94.174</ip>
-<port>39078</port>
-<lastseen>262</lastseen>
-<delay>900</delay>
+<item id="61">
+<host>199.102.105.242</host>
+<ip>199.102.105.242</ip>
+<port>4145</port>
+<lastseen>1084</lastseen>
+<delay>1040</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>20497</checks_up>
-<checks_down>17417</checks_down>
+<checks_up>19137</checks_up>
+<checks_down>10681</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="39">
-<host>192.111.130.2</host>
-<ip>192.111.130.2</ip>
-<port>4145</port>
-<lastseen>262</lastseen>
-<delay>900</delay>
+<item id="62">
+<host>192.111.137.34</host>
+<ip>192.111.137.34</ip>
+<port>18765</port>
+<lastseen>1084</lastseen>
+<delay>960</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>47902</checks_up>
-<checks_down>30414</checks_down>
+<checks_up>24809</checks_up>
+<checks_down>26255</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="40">
-<host>98.188.47.132</host>
-<ip>98.188.47.132</ip>
+<item id="63">
+<host>142.54.226.214</host>
+<ip>142.54.226.214</ip>
 <port>4145</port>
-<lastseen>262</lastseen>
-<delay>880</delay>
+<lastseen>1084</lastseen>
+<delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>53746</checks_up>
-<checks_down>29183</checks_down>
+<checks_up>24737</checks_up>
+<checks_down>13172</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="41">
-<host>98.190.239.3</host>
-<ip>98.190.239.3</ip>
-<port>4145</port>
-<lastseen>262</lastseen>
-<delay>880</delay>
-<cid>4281730</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Wichita</city>
-<checks_up>2581</checks_up>
-<checks_down>293</checks_down>
+<item id="64">
+<host>192.252.215.5</host>
+<ip>192.252.215.5</ip>
+<port>16137</port>
+<lastseen>1084</lastseen>
+<delay>940</delay>
+<cid>6167865</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>Toronto</city>
+<checks_up>45757</checks_up>
+<checks_down>25688</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="42">
-<host>199.58.184.97</host>
-<ip>199.58.184.97</ip>
-<port>4145</port>
-<lastseen>262</lastseen>
-<delay>900</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>19546</checks_up>
-<checks_down>17366</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="43">
+<item id="65">
 <host>198.177.252.24</host>
 <ip>198.177.252.24</ip>
 <port>4145</port>
-<lastseen>262</lastseen>
+<lastseen>1085</lastseen>
 <delay>2360</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -792,65 +1188,47 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="44">
-<host>67.201.35.145</host>
-<ip>67.201.35.145</ip>
-<port>4145</port>
-<lastseen>262</lastseen>
-<delay>1040</delay>
-<cid>6252001</cid>
+<item id="66">
+<host>66.42.224.229</host>
+<ip>66.42.224.229</ip>
+<port>41679</port>
+<lastseen>1085</lastseen>
+<delay>1800</delay>
+<cid>4508722</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city></city>
-<checks_up>5872</checks_up>
-<checks_down>1555</checks_down>
+<city>Cincinnati</city>
+<checks_up>65535</checks_up>
+<checks_down>10168</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="45">
-<host>192.111.129.145</host>
-<ip>192.111.129.145</ip>
-<port>16894</port>
-<lastseen>262</lastseen>
+<item id="67">
+<host>192.111.130.2</host>
+<ip>192.111.130.2</ip>
+<port>4145</port>
+<lastseen>1085</lastseen>
 <delay>900</delay>
-<cid>6167865</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>Toronto</city>
-<checks_up>40753</checks_up>
-<checks_down>32197</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="46">
-<host>192.111.137.35</host>
-<ip>192.111.137.35</ip>
-<port>4145</port>
-<lastseen>262</lastseen>
-<delay>2460</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>50994</checks_up>
-<checks_down>34752</checks_down>
+<checks_up>47902</checks_up>
+<checks_down>30414</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="47">
+<item id="68">
 <host>74.119.147.209</host>
 <ip>74.119.147.209</ip>
 <port>4145</port>
-<lastseen>262</lastseen>
+<lastseen>1085</lastseen>
 <delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -864,83 +1242,137 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="48">
-<host>70.166.167.55</host>
-<ip>70.166.167.55</ip>
-<port>57745</port>
-<lastseen>263</lastseen>
+<item id="69">
+<host>98.188.47.132</host>
+<ip>98.188.47.132</ip>
+<port>4145</port>
+<lastseen>1085</lastseen>
+<delay>880</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>53746</checks_up>
+<checks_down>29183</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="70">
+<host>192.111.137.35</host>
+<ip>192.111.137.35</ip>
+<port>4145</port>
+<lastseen>1085</lastseen>
+<delay>2460</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>50994</checks_up>
+<checks_down>34752</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="71">
+<host>67.201.35.145</host>
+<ip>67.201.35.145</ip>
+<port>4145</port>
+<lastseen>1085</lastseen>
+<delay>1040</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>5872</checks_up>
+<checks_down>1555</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="72">
+<host>199.58.184.97</host>
+<ip>199.58.184.97</ip>
+<port>4145</port>
+<lastseen>1085</lastseen>
 <delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>62489</checks_up>
-<checks_down>19890</checks_down>
+<checks_up>19546</checks_up>
+<checks_down>17366</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="49">
-<host>60.16.110.246</host>
-<ip>60.16.110.246</ip>
-<port>5678</port>
-<lastseen>263</lastseen>
-<delay>1920</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>5</checks_up>
-<checks_down>51</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="50">
-<host>98.178.72.30</host>
-<ip>98.178.72.30</ip>
+<item id="73">
+<host>98.190.239.3</host>
+<ip>98.190.239.3</ip>
 <port>4145</port>
-<lastseen>263</lastseen>
-<delay>860</delay>
+<lastseen>1085</lastseen>
+<delay>880</delay>
+<cid>4281730</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Wichita</city>
+<checks_up>2581</checks_up>
+<checks_down>293</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="74">
+<host>198.8.94.174</host>
+<ip>198.8.94.174</ip>
+<port>39078</port>
+<lastseen>1085</lastseen>
+<delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>1304</checks_up>
-<checks_down>30</checks_down>
+<checks_up>20497</checks_up>
+<checks_down>17417</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="51">
-<host>192.111.129.150</host>
-<ip>192.111.129.150</ip>
+<item id="75">
+<host>184.170.245.148</host>
+<ip>184.170.245.148</ip>
 <port>4145</port>
-<lastseen>263</lastseen>
-<delay>900</delay>
-<cid>6091104</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>North York</city>
-<checks_up>1696</checks_up>
-<checks_down>1719</checks_down>
+<lastseen>1085</lastseen>
+<delay>920</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>22134</checks_up>
+<checks_down>20084</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="52">
+<item id="76">
 <host>67.201.58.190</host>
 <ip>67.201.58.190</ip>
 <port>4145</port>
-<lastseen>263</lastseen>
+<lastseen>1086</lastseen>
 <delay>1040</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -954,11 +1386,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="53">
+<item id="77">
+<host>70.166.167.55</host>
+<ip>70.166.167.55</ip>
+<port>57745</port>
+<lastseen>1086</lastseen>
+<delay>900</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>62489</checks_up>
+<checks_down>19890</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="78">
 <host>133.18.234.13</host>
 <ip>133.18.234.13</ip>
 <port>80</port>
-<lastseen>263</lastseen>
+<lastseen>1086</lastseen>
 <delay>2240</delay>
 <cid>1861060</cid>
 <country_code>JP</country_code>
@@ -972,65 +1422,65 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="54">
-<host>185.10.129.14</host>
-<ip>185.10.129.14</ip>
-<port>3128</port>
-<lastseen>264</lastseen>
-<delay>180</delay>
-<cid>468902</cid>
-<country_code>RU</country_code>
-<country_name>Russian Federation</country_name>
-<city>Yaroslavl</city>
-<checks_up>13315</checks_up>
-<checks_down>3808</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="55">
-<host>199.229.254.129</host>
-<ip>199.229.254.129</ip>
-<port>4145</port>
-<lastseen>264</lastseen>
-<delay>960</delay>
-<cid>5809844</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Seattle</city>
-<checks_up>21300</checks_up>
-<checks_down>18267</checks_down>
+<item id="79">
+<host>60.16.110.246</host>
+<ip>60.16.110.246</ip>
+<port>5678</port>
+<lastseen>1086</lastseen>
+<delay>1920</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>5</checks_up>
+<checks_down>51</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="56">
-<host>68.71.241.33</host>
-<ip>68.71.241.33</ip>
+<item id="80">
+<host>98.178.72.30</host>
+<ip>98.178.72.30</ip>
 <port>4145</port>
-<lastseen>264</lastseen>
-<delay>1060</delay>
+<lastseen>1086</lastseen>
+<delay>860</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>7032</checks_up>
-<checks_down>1494</checks_down>
+<checks_up>1304</checks_up>
+<checks_down>30</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="57">
+<item id="81">
+<host>192.111.129.150</host>
+<ip>192.111.129.150</ip>
+<port>4145</port>
+<lastseen>1086</lastseen>
+<delay>900</delay>
+<cid>6091104</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>North York</city>
+<checks_up>1696</checks_up>
+<checks_down>1719</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="82">
 <host>95.47.239.221</host>
 <ip>95.47.239.221</ip>
 <port>3128</port>
-<lastseen>264</lastseen>
+<lastseen>1087</lastseen>
 <delay>700</delay>
 <cid>1512569</cid>
 <country_code>UZ</country_code>
@@ -1044,65 +1494,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="58">
-<host>47.89.184.18</host>
-<ip>47.89.184.18</ip>
-<port>3128</port>
-<lastseen>264</lastseen>
-<delay>2560</delay>
-<cid>6254928</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>30080</checks_up>
-<checks_down>8037</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="59">
-<host>142.54.235.9</host>
-<ip>142.54.235.9</ip>
+<item id="83">
+<host>199.229.254.129</host>
+<ip>199.229.254.129</ip>
 <port>4145</port>
-<lastseen>264</lastseen>
-<delay>1080</delay>
-<cid>6252001</cid>
+<lastseen>1087</lastseen>
+<delay>960</delay>
+<cid>5809844</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city></city>
-<checks_up>18809</checks_up>
-<checks_down>9704</checks_down>
+<city>Seattle</city>
+<checks_up>21300</checks_up>
+<checks_down>18267</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="60">
-<host>154.65.39.7</host>
-<ip>154.65.39.7</ip>
-<port>80</port>
-<lastseen>264</lastseen>
-<delay>2900</delay>
-<cid>2245662</cid>
-<country_code>SN</country_code>
-<country_name>Senegal</country_name>
-<city></city>
-<checks_up>20579</checks_up>
-<checks_down>18306</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="61">
+<item id="84">
 <host>142.54.228.193</host>
 <ip>142.54.228.193</ip>
 <port>4145</port>
-<lastseen>264</lastseen>
+<lastseen>1087</lastseen>
 <delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -1116,29 +1530,101 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="62">
-<host>38.191.214.4</host>
-<ip>38.191.214.4</ip>
-<port>999</port>
-<lastseen>265</lastseen>
-<delay>4880</delay>
-<cid>3665900</cid>
-<country_code>CO</country_code>
-<country_name>Colombia</country_name>
-<city>Villavicencio</city>
-<checks_up>180</checks_up>
-<checks_down>100</checks_down>
+<item id="85">
+<host>142.54.235.9</host>
+<ip>142.54.235.9</ip>
+<port>4145</port>
+<lastseen>1087</lastseen>
+<delay>1080</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>18809</checks_up>
+<checks_down>9704</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="86">
+<host>154.65.39.7</host>
+<ip>154.65.39.7</ip>
+<port>80</port>
+<lastseen>1087</lastseen>
+<delay>2900</delay>
+<cid>2245662</cid>
+<country_code>SN</country_code>
+<country_name>Senegal</country_name>
+<city></city>
+<checks_up>20579</checks_up>
+<checks_down>18306</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="87">
+<host>185.10.129.14</host>
+<ip>185.10.129.14</ip>
+<port>3128</port>
+<lastseen>1087</lastseen>
+<delay>180</delay>
+<cid>468902</cid>
+<country_code>RU</country_code>
+<country_name>Russian Federation</country_name>
+<city>Yaroslavl</city>
+<checks_up>13315</checks_up>
+<checks_down>3808</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="88">
+<host>47.89.184.18</host>
+<ip>47.89.184.18</ip>
+<port>3128</port>
+<lastseen>1087</lastseen>
+<delay>2560</delay>
+<cid>6254928</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>30080</checks_up>
+<checks_down>8037</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="63">
+<item id="89">
+<host>68.71.241.33</host>
+<ip>68.71.241.33</ip>
+<port>4145</port>
+<lastseen>1087</lastseen>
+<delay>1060</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>7032</checks_up>
+<checks_down>1494</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="90">
 <host>142.54.237.34</host>
 <ip>142.54.237.34</ip>
 <port>4145</port>
-<lastseen>265</lastseen>
+<lastseen>1088</lastseen>
 <delay>1040</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -1152,65 +1638,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="64">
-<host>208.102.51.6</host>
-<ip>208.102.51.6</ip>
-<port>58208</port>
-<lastseen>265</lastseen>
-<delay>1700</delay>
-<cid>4282342</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Alexandria</city>
-<checks_up>65535</checks_up>
-<checks_down>11993</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="65">
-<host>192.111.139.162</host>
-<ip>192.111.139.162</ip>
-<port>4145</port>
-<lastseen>265</lastseen>
-<delay>920</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>45393</checks_up>
-<checks_down>33340</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="66">
-<host>70.166.167.38</host>
-<ip>70.166.167.38</ip>
-<port>57728</port>
-<lastseen>265</lastseen>
-<delay>880</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>54433</checks_up>
-<checks_down>18411</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="67">
+<item id="91">
 <host>58.216.109.17</host>
 <ip>58.216.109.17</ip>
 <port>800</port>
-<lastseen>265</lastseen>
+<lastseen>1088</lastseen>
 <delay>1120</delay>
 <cid>1814991</cid>
 <country_code>CN</country_code>
@@ -1224,11 +1656,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="68">
+<item id="92">
 <host>125.228.94.199</host>
 <ip>125.228.94.199</ip>
 <port>4145</port>
-<lastseen>265</lastseen>
+<lastseen>1088</lastseen>
 <delay>1460</delay>
 <cid>1665148</cid>
 <country_code></country_code>
@@ -1242,29 +1674,83 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="69">
-<host>172.64.40.184</host>
-<ip>172.64.40.184</ip>
-<port>80</port>
-<lastseen>266</lastseen>
-<delay>180</delay>
+<item id="93">
+<host>70.166.167.38</host>
+<ip>70.166.167.38</ip>
+<port>57728</port>
+<lastseen>1088</lastseen>
+<delay>880</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>9714</checks_up>
-<checks_down>151</checks_down>
+<checks_up>54433</checks_up>
+<checks_down>18411</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="94">
+<host>208.102.51.6</host>
+<ip>208.102.51.6</ip>
+<port>58208</port>
+<lastseen>1088</lastseen>
+<delay>1700</delay>
+<cid>4282342</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Alexandria</city>
+<checks_up>65535</checks_up>
+<checks_down>11993</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="95">
+<host>192.111.139.162</host>
+<ip>192.111.139.162</ip>
+<port>4145</port>
+<lastseen>1088</lastseen>
+<delay>920</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>45393</checks_up>
+<checks_down>33340</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="96">
+<host>38.191.214.4</host>
+<ip>38.191.214.4</ip>
+<port>999</port>
+<lastseen>1088</lastseen>
+<delay>4880</delay>
+<cid>3665900</cid>
+<country_code>CO</country_code>
+<country_name>Colombia</country_name>
+<city>Villavicencio</city>
+<checks_up>180</checks_up>
+<checks_down>100</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="70">
+<item id="97">
 <host>170.244.27.142</host>
 <ip>170.244.27.142</ip>
 <port>8888</port>
-<lastseen>266</lastseen>
+<lastseen>1089</lastseen>
 <delay>1340</delay>
 <cid>3466767</cid>
 <country_code>BR</country_code>
@@ -1278,11 +1764,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="71">
+<item id="98">
+<host>172.64.40.184</host>
+<ip>172.64.40.184</ip>
+<port>80</port>
+<lastseen>1089</lastseen>
+<delay>180</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>9714</checks_up>
+<checks_down>151</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="99">
 <host>40.177.65.8</host>
 <ip>40.177.65.8</ip>
 <port>80</port>
-<lastseen>266</lastseen>
+<lastseen>1089</lastseen>
 <delay>780</delay>
 <cid>5913490</cid>
 <country_code>CA</country_code>
@@ -1296,11 +1800,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="72">
+<item id="100">
 <host>125.228.94.153</host>
 <ip>125.228.94.153</ip>
 <port>4145</port>
-<lastseen>266</lastseen>
+<lastseen>1089</lastseen>
 <delay>1440</delay>
 <cid>1668341</cid>
 <country_code>TW</country_code>
@@ -1314,119 +1818,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="73">
-<host>172.65.90.0</host>
-<ip>172.65.90.0</ip>
-<port>80</port>
-<lastseen>267</lastseen>
-<delay>1300</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>3646</checks_up>
-<checks_down>44</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="74">
-<host>128.140.113.110</host>
-<ip>128.140.113.110</ip>
-<port>4145</port>
-<lastseen>267</lastseen>
-<delay>240</delay>
-<cid>2927913</cid>
-<country_code>DE</country_code>
-<country_name>Germany</country_name>
-<city>Falkenstein</city>
-<checks_up>1514</checks_up>
-<checks_down>1489</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="75">
-<host>192.252.210.233</host>
-<ip>192.252.210.233</ip>
-<port>4145</port>
-<lastseen>267</lastseen>
-<delay>900</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>3181</checks_up>
-<checks_down>2029</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="76">
-<host>47.83.192.255</host>
-<ip>47.83.192.255</ip>
-<port>8888</port>
-<lastseen>267</lastseen>
-<delay>800</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>6171</checks_up>
-<checks_down>1777</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="77">
-<host>192.252.215.2</host>
-<ip>192.252.215.2</ip>
-<port>4145</port>
-<lastseen>267</lastseen>
-<delay>920</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>2281</checks_up>
-<checks_down>1760</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="78">
-<host>58.216.109.14</host>
-<ip>58.216.109.14</ip>
-<port>800</port>
-<lastseen>267</lastseen>
-<delay>1060</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>1428</checks_up>
-<checks_down>83</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="79">
+<item id="101">
 <host>212.39.114.139</host>
 <ip>212.39.114.139</ip>
 <port>5678</port>
-<lastseen>267</lastseen>
+<lastseen>1090</lastseen>
 <delay>1360</delay>
 <cid>3277605</cid>
 <country_code>BA</country_code>
@@ -1440,11 +1836,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="80">
+<item id="102">
 <host>72.206.74.126</host>
 <ip>72.206.74.126</ip>
 <port>4145</port>
-<lastseen>267</lastseen>
+<lastseen>1090</lastseen>
 <delay>880</delay>
 <cid>4758023</cid>
 <country_code>US</country_code>
@@ -1458,11 +1854,83 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="81">
+<item id="103">
+<host>172.65.90.0</host>
+<ip>172.65.90.0</ip>
+<port>80</port>
+<lastseen>1090</lastseen>
+<delay>1300</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>3646</checks_up>
+<checks_down>44</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="104">
+<host>128.140.113.110</host>
+<ip>128.140.113.110</ip>
+<port>4145</port>
+<lastseen>1090</lastseen>
+<delay>240</delay>
+<cid>2927913</cid>
+<country_code>DE</country_code>
+<country_name>Germany</country_name>
+<city>Falkenstein</city>
+<checks_up>1514</checks_up>
+<checks_down>1489</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="105">
+<host>192.252.215.2</host>
+<ip>192.252.215.2</ip>
+<port>4145</port>
+<lastseen>1090</lastseen>
+<delay>920</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>2281</checks_up>
+<checks_down>1760</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="106">
+<host>58.216.109.14</host>
+<ip>58.216.109.14</ip>
+<port>800</port>
+<lastseen>1090</lastseen>
+<delay>1060</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>1428</checks_up>
+<checks_down>83</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="107">
 <host>68.71.254.6</host>
 <ip>68.71.254.6</ip>
 <port>4145</port>
-<lastseen>267</lastseen>
+<lastseen>1090</lastseen>
 <delay>1040</delay>
 <cid>5950267</cid>
 <country_code></country_code>
@@ -1476,47 +1944,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="82">
-<host>190.242.157.215</host>
-<ip>190.242.157.215</ip>
-<port>8080</port>
-<lastseen>267</lastseen>
-<delay>840</delay>
-<cid>3687925</cid>
-<country_code>CO</country_code>
-<country_name>Colombia</country_name>
-<city>Santiago de Cali</city>
-<checks_up>573</checks_up>
-<checks_down>38</checks_down>
+<item id="108">
+<host>47.83.192.255</host>
+<ip>47.83.192.255</ip>
+<port>8888</port>
+<lastseen>1090</lastseen>
+<delay>800</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>6171</checks_up>
+<checks_down>1777</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="83">
-<host>221.202.27.194</host>
-<ip>221.202.27.194</ip>
-<port>10808</port>
-<lastseen>267</lastseen>
-<delay>3940</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>533</checks_up>
-<checks_down>683</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>1</socks5>
-</item>
-<item id="84">
+<item id="109">
 <host>62.103.186.66</host>
 <ip>62.103.186.66</ip>
 <port>4153</port>
-<lastseen>267</lastseen>
+<lastseen>1090</lastseen>
 <delay>420</delay>
 <cid>264371</cid>
 <country_code>GR</country_code>
@@ -1530,83 +1980,65 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="85">
-<host>198.8.84.3</host>
-<ip>198.8.84.3</ip>
+<item id="110">
+<host>192.252.210.233</host>
+<ip>192.252.210.233</ip>
 <port>4145</port>
-<lastseen>268</lastseen>
-<delay>1660</delay>
-<cid>6251999</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city></city>
-<checks_up>20429</checks_up>
-<checks_down>8978</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="86">
-<host>98.178.72.21</host>
-<ip>98.178.72.21</ip>
-<port>10919</port>
-<lastseen>268</lastseen>
-<delay>880</delay>
+<lastseen>1090</lastseen>
+<delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>55913</checks_up>
-<checks_down>19886</checks_down>
+<checks_up>3181</checks_up>
+<checks_down>2029</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="87">
-<host>65.1.148.157</host>
-<ip>65.1.148.157</ip>
-<port>80</port>
-<lastseen>268</lastseen>
-<delay>860</delay>
-<cid>1275339</cid>
-<country_code>IN</country_code>
-<country_name>India</country_name>
-<city>Mumbai</city>
-<checks_up>1133</checks_up>
-<checks_down>42</checks_down>
-<anon>3</anon>
+<item id="111">
+<host>221.202.27.194</host>
+<ip>221.202.27.194</ip>
+<port>10808</port>
+<lastseen>1090</lastseen>
+<delay>3940</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>533</checks_up>
+<checks_down>683</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>1</socks5>
+</item>
+<item id="112">
+<host>190.242.157.215</host>
+<ip>190.242.157.215</ip>
+<port>8080</port>
+<lastseen>1090</lastseen>
+<delay>840</delay>
+<cid>3687925</cid>
+<country_code>CO</country_code>
+<country_name>Colombia</country_name>
+<city>Santiago de Cali</city>
+<checks_up>573</checks_up>
+<checks_down>38</checks_down>
+<anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="88">
-<host>192.252.208.70</host>
-<ip>192.252.208.70</ip>
-<port>14282</port>
-<lastseen>268</lastseen>
-<delay>920</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>25062</checks_up>
-<checks_down>26537</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="89">
+<item id="113">
 <host>61.158.175.38</host>
 <ip>61.158.175.38</ip>
 <port>9002</port>
-<lastseen>268</lastseen>
+<lastseen>1091</lastseen>
 <delay>2560</delay>
 <cid>1783934</cid>
 <country_code>CN</country_code>
@@ -1620,65 +2052,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="90">
-<host>159.203.61.169</host>
-<ip>159.203.61.169</ip>
-<port>8080</port>
-<lastseen>268</lastseen>
-<delay>780</delay>
-<cid>6167865</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>Toronto</city>
-<checks_up>5195</checks_up>
-<checks_down>5137</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="91">
-<host>199.102.107.145</host>
-<ip>199.102.107.145</ip>
-<port>4145</port>
-<lastseen>268</lastseen>
-<delay>1040</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>18946</checks_up>
-<checks_down>9291</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="92">
-<host>103.82.27.24</host>
-<ip>103.82.27.24</ip>
-<port>10001</port>
-<lastseen>268</lastseen>
-<delay>1080</delay>
-<cid>1562822</cid>
-<country_code>VN</country_code>
-<country_name>Vietnam</country_name>
-<city></city>
-<checks_up>417</checks_up>
-<checks_down>8</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="93">
+<item id="114">
 <host>68.71.249.153</host>
 <ip>68.71.249.153</ip>
 <port>48606</port>
-<lastseen>268</lastseen>
+<lastseen>1091</lastseen>
 <delay>1020</delay>
 <cid>5950267</cid>
 <country_code></country_code>
@@ -1692,11 +2070,119 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="94">
+<item id="115">
+<host>198.8.84.3</host>
+<ip>198.8.84.3</ip>
+<port>4145</port>
+<lastseen>1091</lastseen>
+<delay>1660</delay>
+<cid>6251999</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city></city>
+<checks_up>20429</checks_up>
+<checks_down>8978</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="116">
+<host>103.82.27.24</host>
+<ip>103.82.27.24</ip>
+<port>10001</port>
+<lastseen>1091</lastseen>
+<delay>1080</delay>
+<cid>1562822</cid>
+<country_code>VN</country_code>
+<country_name>Vietnam</country_name>
+<city></city>
+<checks_up>417</checks_up>
+<checks_down>8</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="117">
+<host>65.1.148.157</host>
+<ip>65.1.148.157</ip>
+<port>80</port>
+<lastseen>1091</lastseen>
+<delay>860</delay>
+<cid>1275339</cid>
+<country_code>IN</country_code>
+<country_name>India</country_name>
+<city>Mumbai</city>
+<checks_up>1133</checks_up>
+<checks_down>42</checks_down>
+<anon>3</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="118">
+<host>199.102.107.145</host>
+<ip>199.102.107.145</ip>
+<port>4145</port>
+<lastseen>1091</lastseen>
+<delay>1040</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>18946</checks_up>
+<checks_down>9291</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="119">
+<host>98.178.72.21</host>
+<ip>98.178.72.21</ip>
+<port>10919</port>
+<lastseen>1091</lastseen>
+<delay>880</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>55913</checks_up>
+<checks_down>19886</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="120">
+<host>192.252.208.70</host>
+<ip>192.252.208.70</ip>
+<port>14282</port>
+<lastseen>1091</lastseen>
+<delay>920</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>25062</checks_up>
+<checks_down>26537</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="121">
 <host>142.54.239.1</host>
 <ip>142.54.239.1</ip>
 <port>4145</port>
-<lastseen>268</lastseen>
+<lastseen>1091</lastseen>
 <delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -1710,11 +2196,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="95">
+<item id="122">
+<host>159.203.61.169</host>
+<ip>159.203.61.169</ip>
+<port>8080</port>
+<lastseen>1091</lastseen>
+<delay>780</delay>
+<cid>6167865</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>Toronto</city>
+<checks_up>5195</checks_up>
+<checks_down>5137</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="123">
 <host>98.191.0.47</host>
 <ip>98.191.0.47</ip>
 <port>4145</port>
-<lastseen>268</lastseen>
+<lastseen>1091</lastseen>
 <delay>880</delay>
 <cid>5317058</cid>
 <country_code>US</country_code>
@@ -1728,11 +2232,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="96">
+<item id="124">
 <host>192.111.135.18</host>
 <ip>192.111.135.18</ip>
 <port>18301</port>
-<lastseen>269</lastseen>
+<lastseen>1092</lastseen>
 <delay>920</delay>
 <cid>5368361</cid>
 <country_code>US</country_code>
@@ -1746,11 +2250,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="97">
+<item id="125">
 <host>72.207.33.64</host>
 <ip>72.207.33.64</ip>
 <port>4145</port>
-<lastseen>269</lastseen>
+<lastseen>1092</lastseen>
 <delay>880</delay>
 <cid>5336899</cid>
 <country_code>US</country_code>
@@ -1764,119 +2268,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="98">
-<host>45.119.55.129</host>
-<ip>45.119.55.129</ip>
-<port>1080</port>
-<lastseen>269</lastseen>
-<delay>2600</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>226</checks_up>
-<checks_down>58</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="99">
-<host>170.244.26.36</host>
-<ip>170.244.26.36</ip>
-<port>8888</port>
-<lastseen>269</lastseen>
-<delay>1340</delay>
-<cid>3466767</cid>
-<country_code>BR</country_code>
-<country_name>Brazil</country_name>
-<city>Caseiros</city>
-<checks_up>434</checks_up>
-<checks_down>20</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="100">
-<host>122.116.125.115</host>
-<ip>122.116.125.115</ip>
-<port>8888</port>
-<lastseen>269</lastseen>
-<delay>1080</delay>
-<cid>1665148</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>8369</checks_up>
-<checks_down>3952</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="101">
-<host>199.58.185.9</host>
-<ip>199.58.185.9</ip>
-<port>4145</port>
-<lastseen>269</lastseen>
-<delay>900</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>20622</checks_up>
-<checks_down>20116</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="102">
-<host>172.64.40.169</host>
-<ip>172.64.40.169</ip>
-<port>80</port>
-<lastseen>269</lastseen>
-<delay>180</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>3248</checks_up>
-<checks_down>46</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="103">
-<host>192.111.130.5</host>
-<ip>192.111.130.5</ip>
-<port>17002</port>
-<lastseen>269</lastseen>
-<delay>940</delay>
-<cid>6092122</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>Oakville</city>
-<checks_up>36624</checks_up>
-<checks_down>30139</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="104">
+<item id="126">
 <host>199.116.112.6</host>
 <ip>199.116.112.6</ip>
 <port>4145</port>
-<lastseen>269</lastseen>
+<lastseen>1092</lastseen>
 <delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -1890,11 +2286,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="105">
+<item id="127">
 <host>208.65.90.21</host>
 <ip>208.65.90.21</ip>
 <port>4145</port>
-<lastseen>269</lastseen>
+<lastseen>1092</lastseen>
 <delay>1580</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -1908,11 +2304,65 @@
 <socks4>0</socks4>
 <socks5>1</socks5>
 </item>
-<item id="106">
+<item id="128">
+<host>122.116.125.115</host>
+<ip>122.116.125.115</ip>
+<port>8888</port>
+<lastseen>1092</lastseen>
+<delay>1080</delay>
+<cid>1665148</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>8369</checks_up>
+<checks_down>3952</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="129">
+<host>172.64.40.169</host>
+<ip>172.64.40.169</ip>
+<port>80</port>
+<lastseen>1092</lastseen>
+<delay>180</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>3248</checks_up>
+<checks_down>46</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="130">
+<host>199.58.185.9</host>
+<ip>199.58.185.9</ip>
+<port>4145</port>
+<lastseen>1092</lastseen>
+<delay>900</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>20622</checks_up>
+<checks_down>20116</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="131">
 <host>170.244.27.150</host>
 <ip>170.244.27.150</ip>
 <port>8888</port>
-<lastseen>269</lastseen>
+<lastseen>1092</lastseen>
 <delay>1360</delay>
 <cid>3466767</cid>
 <country_code>BR</country_code>
@@ -1926,83 +2376,65 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="107">
-<host>154.118.231.30</host>
-<ip>154.118.231.30</ip>
-<port>80</port>
-<lastseen>270</lastseen>
-<delay>1060</delay>
-<cid>160263</cid>
-<country_code>TZ</country_code>
-<country_name>Tanzania</country_name>
-<city>Dar es Salaam</city>
-<checks_up>1288</checks_up>
-<checks_down>386</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="108">
-<host>128.199.202.122</host>
-<ip>128.199.202.122</ip>
-<port>8080</port>
-<lastseen>270</lastseen>
-<delay>1760</delay>
-<cid>1880251</cid>
-<country_code>SG</country_code>
-<country_name>Singapore</country_name>
+<item id="132">
+<host>45.119.55.129</host>
+<ip>45.119.55.129</ip>
+<port>1080</port>
+<lastseen>1092</lastseen>
+<delay>2600</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
 <city></city>
-<checks_up>25195</checks_up>
-<checks_down>12999</checks_down>
+<checks_up>226</checks_up>
+<checks_down>58</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="133">
+<host>170.244.26.36</host>
+<ip>170.244.26.36</ip>
+<port>8888</port>
+<lastseen>1092</lastseen>
+<delay>1340</delay>
+<cid>3466767</cid>
+<country_code>BR</country_code>
+<country_name>Brazil</country_name>
+<city>Caseiros</city>
+<checks_up>434</checks_up>
+<checks_down>20</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="109">
-<host>192.252.208.67</host>
-<ip>192.252.208.67</ip>
-<port>14287</port>
-<lastseen>270</lastseen>
-<delay>980</delay>
-<cid>6167865</cid>
+<item id="134">
+<host>192.111.130.5</host>
+<ip>192.111.130.5</ip>
+<port>17002</port>
+<lastseen>1092</lastseen>
+<delay>940</delay>
+<cid>6092122</cid>
 <country_code>CA</country_code>
 <country_name>Canada</country_name>
-<city>Toronto</city>
-<checks_up>37927</checks_up>
-<checks_down>28282</checks_down>
+<city>Oakville</city>
+<checks_up>36624</checks_up>
+<checks_down>30139</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="110">
-<host>72.37.216.68</host>
-<ip>72.37.216.68</ip>
-<port>4145</port>
-<lastseen>270</lastseen>
-<delay>1000</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>29274</checks_up>
-<checks_down>11366</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="111">
+<item id="135">
 <host>184.170.249.65</host>
 <ip>184.170.249.65</ip>
 <port>4145</port>
-<lastseen>270</lastseen>
+<lastseen>1093</lastseen>
 <delay>940</delay>
 <cid>4215114</cid>
 <country_code>US</country_code>
@@ -2016,29 +2448,47 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="112">
-<host>47.56.110.204</host>
-<ip>47.56.110.204</ip>
-<port>8989</port>
-<lastseen>270</lastseen>
-<delay>820</delay>
-<cid>8223932</cid>
-<country_code>HK</country_code>
-<country_name>Hong Kong</country_name>
-<city>Central</city>
-<checks_up>19677</checks_up>
-<checks_down>8774</checks_down>
+<item id="136">
+<host>128.199.202.122</host>
+<ip>128.199.202.122</ip>
+<port>8080</port>
+<lastseen>1093</lastseen>
+<delay>1760</delay>
+<cid>1880251</cid>
+<country_code>SG</country_code>
+<country_name>Singapore</country_name>
+<city></city>
+<checks_up>25195</checks_up>
+<checks_down>12999</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="113">
+<item id="137">
+<host>154.118.231.30</host>
+<ip>154.118.231.30</ip>
+<port>80</port>
+<lastseen>1093</lastseen>
+<delay>1060</delay>
+<cid>160263</cid>
+<country_code>TZ</country_code>
+<country_name>Tanzania</country_name>
+<city>Dar es Salaam</city>
+<checks_up>1288</checks_up>
+<checks_down>386</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="138">
 <host>192.252.214.20</host>
 <ip>192.252.214.20</ip>
 <port>15864</port>
-<lastseen>270</lastseen>
+<lastseen>1093</lastseen>
 <delay>960</delay>
 <cid>6167865</cid>
 <country_code>CA</country_code>
@@ -2052,11 +2502,65 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="114">
+<item id="139">
+<host>192.252.208.67</host>
+<ip>192.252.208.67</ip>
+<port>14287</port>
+<lastseen>1093</lastseen>
+<delay>980</delay>
+<cid>6167865</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>Toronto</city>
+<checks_up>37927</checks_up>
+<checks_down>28282</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="140">
+<host>72.37.216.68</host>
+<ip>72.37.216.68</ip>
+<port>4145</port>
+<lastseen>1093</lastseen>
+<delay>1000</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>29274</checks_up>
+<checks_down>11366</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="141">
+<host>47.56.110.204</host>
+<ip>47.56.110.204</ip>
+<port>8989</port>
+<lastseen>1093</lastseen>
+<delay>820</delay>
+<cid>8223932</cid>
+<country_code>HK</country_code>
+<country_name>Hong Kong</country_name>
+<city>Central</city>
+<checks_up>19677</checks_up>
+<checks_down>8774</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="142">
 <host>138.68.60.8</host>
 <ip>138.68.60.8</ip>
 <port>3128</port>
-<lastseen>270</lastseen>
+<lastseen>1093</lastseen>
 <delay>4040</delay>
 <cid>5393015</cid>
 <country_code>US</country_code>
@@ -2070,65 +2574,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="115">
-<host>192.252.211.197</host>
-<ip>192.252.211.197</ip>
-<port>14921</port>
-<lastseen>271</lastseen>
-<delay>940</delay>
-<cid>6167865</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city>Toronto</city>
-<checks_up>37954</checks_up>
-<checks_down>28390</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="116">
-<host>216.68.128.121</host>
-<ip>216.68.128.121</ip>
-<port>4145</port>
-<lastseen>271</lastseen>
-<delay>3560</delay>
-<cid>4508722</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Cincinnati</city>
-<checks_up>3175</checks_up>
-<checks_down>421</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="117">
-<host>170.244.27.58</host>
-<ip>170.244.27.58</ip>
-<port>8888</port>
-<lastseen>271</lastseen>
-<delay>1340</delay>
-<cid>3466767</cid>
-<country_code>BR</country_code>
-<country_name>Brazil</country_name>
-<city>Caseiros</city>
-<checks_up>432</checks_up>
-<checks_down>22</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="118">
+<item id="143">
 <host>57.129.81.201</host>
 <ip>57.129.81.201</ip>
 <port>1080</port>
-<lastseen>271</lastseen>
+<lastseen>1094</lastseen>
 <delay>500</delay>
 <cid>2925533</cid>
 <country_code>DE</country_code>
@@ -2142,11 +2592,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="119">
+<item id="144">
+<host>216.68.128.121</host>
+<ip>216.68.128.121</ip>
+<port>4145</port>
+<lastseen>1094</lastseen>
+<delay>3560</delay>
+<cid>4508722</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Cincinnati</city>
+<checks_up>3175</checks_up>
+<checks_down>421</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="145">
 <host>139.60.209.2</host>
 <ip>139.60.209.2</ip>
 <port>80</port>
-<lastseen>271</lastseen>
+<lastseen>1094</lastseen>
 <delay>520</delay>
 <cid>4357141</cid>
 <country_code>US</country_code>
@@ -2160,83 +2628,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="120">
-<host>172.64.78.50</host>
-<ip>172.64.78.50</ip>
-<port>80</port>
-<lastseen>271</lastseen>
-<delay>300</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>1016</checks_up>
-<checks_down>29</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="121">
-<host>68.71.245.206</host>
-<ip>68.71.245.206</ip>
-<port>4145</port>
-<lastseen>271</lastseen>
-<delay>1040</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>6924</checks_up>
-<checks_down>1488</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="122">
-<host>88.198.212.91</host>
-<ip>88.198.212.91</ip>
-<port>3128</port>
-<lastseen>271</lastseen>
-<delay>260</delay>
-<cid>2921044</cid>
-<country_code>DE</country_code>
-<country_name>Germany</country_name>
-<city></city>
-<checks_up>5634</checks_up>
-<checks_down>419</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>1</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="123">
-<host>104.200.135.46</host>
-<ip>104.200.135.46</ip>
-<port>4145</port>
-<lastseen>271</lastseen>
-<delay>1040</delay>
-<cid>5368361</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Los Angeles</city>
-<checks_up>18635</checks_up>
-<checks_down>11729</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="124">
+<item id="146">
 <host>192.73.244.36</host>
 <ip>192.73.244.36</ip>
 <port>80</port>
-<lastseen>271</lastseen>
+<lastseen>1094</lastseen>
 <delay>700</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -2250,209 +2646,119 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="125">
-<host>154.16.146.48</host>
-<ip>154.16.146.48</ip>
-<port>80</port>
-<lastseen>272</lastseen>
-<delay>520</delay>
-<cid>5419384</cid>
+<item id="147">
+<host>88.198.212.91</host>
+<ip>88.198.212.91</ip>
+<port>3128</port>
+<lastseen>1094</lastseen>
+<delay>260</delay>
+<cid>2921044</cid>
+<country_code>DE</country_code>
+<country_name>Germany</country_name>
+<city></city>
+<checks_up>5634</checks_up>
+<checks_down>419</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>1</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="148">
+<host>170.244.27.58</host>
+<ip>170.244.27.58</ip>
+<port>8888</port>
+<lastseen>1094</lastseen>
+<delay>1340</delay>
+<cid>3466767</cid>
+<country_code>BR</country_code>
+<country_name>Brazil</country_name>
+<city>Caseiros</city>
+<checks_up>432</checks_up>
+<checks_down>22</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="149">
+<host>68.71.245.206</host>
+<ip>68.71.245.206</ip>
+<port>4145</port>
+<lastseen>1094</lastseen>
+<delay>1040</delay>
+<cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city>Denver</city>
-<checks_up>2416</checks_up>
-<checks_down>1929</checks_down>
+<city></city>
+<checks_up>6924</checks_up>
+<checks_down>1488</checks_down>
 <anon>4</anon>
-<http>1</http>
+<http>0</http>
 <ssl>0</ssl>
-<socks4>0</socks4>
+<socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="126">
-<host>139.59.1.14</host>
-<ip>139.59.1.14</ip>
+<item id="150">
+<host>172.64.78.50</host>
+<ip>172.64.78.50</ip>
 <port>80</port>
-<lastseen>272</lastseen>
-<delay>1860</delay>
-<cid>1277333</cid>
-<country_code>IN</country_code>
-<country_name>India</country_name>
-<city>Bengaluru</city>
-<checks_up>2301</checks_up>
-<checks_down>716</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="127">
-<host>172.64.78.34</host>
-<ip>172.64.78.34</ip>
-<port>80</port>
-<lastseen>272</lastseen>
-<delay>1040</delay>
+<lastseen>1094</lastseen>
+<delay>300</delay>
 <cid>0</cid>
 <country_code></country_code>
 <country_name></country_name>
 <city></city>
-<checks_up>3370</checks_up>
-<checks_down>43</checks_down>
+<checks_up>1016</checks_up>
+<checks_down>29</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="128">
-<host>185.112.151.207</host>
-<ip>185.112.151.207</ip>
-<port>8022</port>
-<lastseen>272</lastseen>
-<delay>640</delay>
-<cid>130758</cid>
-<country_code>IR</country_code>
-<country_name>Iran</country_name>
-<city></city>
-<checks_up>750</checks_up>
-<checks_down>11</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="129">
-<host>35.197.89.213</host>
-<ip>35.197.89.213</ip>
-<port>80</port>
-<lastseen>272</lastseen>
-<delay>800</delay>
-<cid>5756304</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>The Dalles</city>
-<checks_up>393</checks_up>
-<checks_down>163</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="130">
-<host>192.252.216.86</host>
-<ip>192.252.216.86</ip>
+<item id="151">
+<host>104.200.135.46</host>
+<ip>104.200.135.46</ip>
 <port>4145</port>
-<lastseen>272</lastseen>
-<delay>980</delay>
-<cid>6252001</cid>
+<lastseen>1094</lastseen>
+<delay>1040</delay>
+<cid>5368361</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city></city>
-<checks_up>3284</checks_up>
-<checks_down>2212</checks_down>
+<city>Los Angeles</city>
+<checks_up>18635</checks_up>
+<checks_down>11729</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="131">
-<host>98.182.171.161</host>
-<ip>98.182.171.161</ip>
-<port>4145</port>
-<lastseen>272</lastseen>
-<delay>880</delay>
-<cid>5505411</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Henderson</city>
-<checks_up>1211</checks_up>
-<checks_down>31</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="132">
-<host>98.182.147.97</host>
-<ip>98.182.147.97</ip>
-<port>4145</port>
-<lastseen>272</lastseen>
-<delay>880</delay>
-<cid>5506956</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Las Vegas</city>
-<checks_up>1211</checks_up>
-<checks_down>25</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="133">
-<host>183.215.23.242</host>
-<ip>183.215.23.242</ip>
-<port>9091</port>
-<lastseen>272</lastseen>
-<delay>1100</delay>
-<cid>1815577</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city>Changsha</city>
-<checks_up>40217</checks_up>
-<checks_down>4747</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="134">
-<host>203.19.38.114</host>
-<ip>203.19.38.114</ip>
-<port>1080</port>
-<lastseen>272</lastseen>
+<item id="152">
+<host>192.252.211.197</host>
+<ip>192.252.211.197</ip>
+<port>14921</port>
+<lastseen>1094</lastseen>
 <delay>940</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>27408</checks_up>
-<checks_down>19296</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="135">
-<host>192.111.139.163</host>
-<ip>192.111.139.163</ip>
-<port>19404</port>
-<lastseen>272</lastseen>
-<delay>960</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>33331</checks_up>
-<checks_down>30179</checks_down>
+<cid>6167865</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city>Toronto</city>
+<checks_up>37954</checks_up>
+<checks_down>28390</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="136">
+<item id="153">
 <host>192.252.220.92</host>
 <ip>192.252.220.92</ip>
 <port>17328</port>
-<lastseen>272</lastseen>
+<lastseen>1095</lastseen>
 <delay>1040</delay>
 <cid>5368361</cid>
 <country_code>US</country_code>
@@ -2466,11 +2772,173 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="137">
+<item id="154">
+<host>192.111.139.163</host>
+<ip>192.111.139.163</ip>
+<port>19404</port>
+<lastseen>1095</lastseen>
+<delay>960</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>33331</checks_up>
+<checks_down>30179</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="155">
+<host>203.19.38.114</host>
+<ip>203.19.38.114</ip>
+<port>1080</port>
+<lastseen>1095</lastseen>
+<delay>940</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>27408</checks_up>
+<checks_down>19296</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="156">
+<host>185.112.151.207</host>
+<ip>185.112.151.207</ip>
+<port>8022</port>
+<lastseen>1095</lastseen>
+<delay>640</delay>
+<cid>130758</cid>
+<country_code>IR</country_code>
+<country_name>Iran</country_name>
+<city></city>
+<checks_up>750</checks_up>
+<checks_down>11</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="157">
+<host>192.252.216.86</host>
+<ip>192.252.216.86</ip>
+<port>4145</port>
+<lastseen>1095</lastseen>
+<delay>980</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>3284</checks_up>
+<checks_down>2212</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="158">
+<host>98.182.171.161</host>
+<ip>98.182.171.161</ip>
+<port>4145</port>
+<lastseen>1095</lastseen>
+<delay>880</delay>
+<cid>5505411</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Henderson</city>
+<checks_up>1211</checks_up>
+<checks_down>31</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="159">
+<host>154.16.146.48</host>
+<ip>154.16.146.48</ip>
+<port>80</port>
+<lastseen>1095</lastseen>
+<delay>520</delay>
+<cid>5419384</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Denver</city>
+<checks_up>2416</checks_up>
+<checks_down>1929</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="160">
+<host>172.64.78.34</host>
+<ip>172.64.78.34</ip>
+<port>80</port>
+<lastseen>1095</lastseen>
+<delay>1040</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>3370</checks_up>
+<checks_down>43</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="161">
+<host>183.215.23.242</host>
+<ip>183.215.23.242</ip>
+<port>9091</port>
+<lastseen>1095</lastseen>
+<delay>1100</delay>
+<cid>1815577</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city>Changsha</city>
+<checks_up>40217</checks_up>
+<checks_down>4747</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="162">
+<host>35.197.89.213</host>
+<ip>35.197.89.213</ip>
+<port>80</port>
+<lastseen>1095</lastseen>
+<delay>800</delay>
+<cid>5756304</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>The Dalles</city>
+<checks_up>393</checks_up>
+<checks_down>163</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="163">
 <host>141.101.123.174</host>
 <ip>141.101.123.174</ip>
 <port>80</port>
-<lastseen>272</lastseen>
+<lastseen>1095</lastseen>
 <delay>80</delay>
 <cid>6255149</cid>
 <country_code></country_code>
@@ -2484,29 +2952,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="138">
-<host>192.252.209.158</host>
-<ip>192.252.209.158</ip>
-<port>4145</port>
-<lastseen>273</lastseen>
-<delay>900</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>2873</checks_up>
-<checks_down>1979</checks_down>
+<item id="164">
+<host>139.59.1.14</host>
+<ip>139.59.1.14</ip>
+<port>80</port>
+<lastseen>1095</lastseen>
+<delay>1860</delay>
+<cid>1277333</cid>
+<country_code>IN</country_code>
+<country_name>India</country_name>
+<city>Bengaluru</city>
+<checks_up>2301</checks_up>
+<checks_down>716</checks_down>
 <anon>4</anon>
-<http>0</http>
+<http>1</http>
 <ssl>0</ssl>
-<socks4>1</socks4>
+<socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="139">
+<item id="165">
 <host>172.64.78.163</host>
 <ip>172.64.78.163</ip>
 <port>80</port>
-<lastseen>273</lastseen>
+<lastseen>1096</lastseen>
 <delay>860</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -2520,29 +2988,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="140">
-<host>124.108.6.20</host>
-<ip>124.108.6.20</ip>
-<port>8085</port>
-<lastseen>273</lastseen>
-<delay>960</delay>
-<cid>1831722</cid>
-<country_code>KH</country_code>
-<country_name>Cambodia</country_name>
-<city></city>
-<checks_up>1466</checks_up>
-<checks_down>322</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="141">
+<item id="166">
 <host>23.247.136.254</host>
 <ip>23.247.136.254</ip>
 <port>80</port>
-<lastseen>273</lastseen>
+<lastseen>1096</lastseen>
 <delay>680</delay>
 <cid>1880252</cid>
 <country_code>SG</country_code>
@@ -2556,65 +3006,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="142">
-<host>198.199.86.11</host>
-<ip>198.199.86.11</ip>
-<port>8080</port>
-<lastseen>273</lastseen>
-<delay>1100</delay>
-<cid>5101879</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>North Bergen</city>
-<checks_up>6228</checks_up>
-<checks_down>5971</checks_down>
+<item id="167">
+<host>124.108.6.20</host>
+<ip>124.108.6.20</ip>
+<port>8085</port>
+<lastseen>1096</lastseen>
+<delay>960</delay>
+<cid>1831722</cid>
+<country_code>KH</country_code>
+<country_name>Cambodia</country_name>
+<city></city>
+<checks_up>1466</checks_up>
+<checks_down>322</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="143">
-<host>170.244.25.52</host>
-<ip>170.244.25.52</ip>
-<port>8888</port>
-<lastseen>273</lastseen>
-<delay>1360</delay>
-<cid>3466767</cid>
-<country_code>BR</country_code>
-<country_name>Brazil</country_name>
-<city>Caseiros</city>
-<checks_up>431</checks_up>
-<checks_down>23</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="144">
-<host>69.61.200.104</host>
-<ip>69.61.200.104</ip>
-<port>36181</port>
-<lastseen>273</lastseen>
-<delay>3720</delay>
-<cid>4508722</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Cincinnati</city>
-<checks_up>65535</checks_up>
-<checks_down>10287</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="145">
+<item id="168">
 <host>184.170.248.5</host>
 <ip>184.170.248.5</ip>
 <port>4145</port>
-<lastseen>273</lastseen>
+<lastseen>1096</lastseen>
 <delay>900</delay>
 <cid>4215114</cid>
 <country_code>US</country_code>
@@ -2628,29 +3042,83 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="146">
-<host>107.152.98.5</host>
-<ip>107.152.98.5</ip>
+<item id="169">
+<host>192.252.209.158</host>
+<ip>192.252.209.158</ip>
 <port>4145</port>
-<lastseen>274</lastseen>
-<delay>1000</delay>
-<cid>4684888</cid>
+<lastseen>1096</lastseen>
+<delay>900</delay>
+<cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city>Dallas</city>
-<checks_up>19353</checks_up>
-<checks_down>11733</checks_down>
+<city></city>
+<checks_up>2873</checks_up>
+<checks_down>1979</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="147">
+<item id="170">
+<host>198.199.86.11</host>
+<ip>198.199.86.11</ip>
+<port>8080</port>
+<lastseen>1096</lastseen>
+<delay>1100</delay>
+<cid>5101879</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>North Bergen</city>
+<checks_up>6228</checks_up>
+<checks_down>5971</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="171">
+<host>170.244.25.52</host>
+<ip>170.244.25.52</ip>
+<port>8888</port>
+<lastseen>1096</lastseen>
+<delay>1360</delay>
+<cid>3466767</cid>
+<country_code>BR</country_code>
+<country_name>Brazil</country_name>
+<city>Caseiros</city>
+<checks_up>431</checks_up>
+<checks_down>23</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="172">
+<host>69.61.200.104</host>
+<ip>69.61.200.104</ip>
+<port>36181</port>
+<lastseen>1096</lastseen>
+<delay>3720</delay>
+<cid>4508722</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Cincinnati</city>
+<checks_up>65535</checks_up>
+<checks_down>10287</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="173">
 <host>98.170.57.249</host>
 <ip>98.170.57.249</ip>
 <port>4145</port>
-<lastseen>274</lastseen>
+<lastseen>1097</lastseen>
 <delay>880</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -2664,11 +3132,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="148">
+<item id="174">
 <host>198.8.94.170</host>
 <ip>198.8.94.170</ip>
 <port>4145</port>
-<lastseen>274</lastseen>
+<lastseen>1097</lastseen>
 <delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -2682,11 +3150,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="149">
+<item id="175">
+<host>107.152.98.5</host>
+<ip>107.152.98.5</ip>
+<port>4145</port>
+<lastseen>1097</lastseen>
+<delay>1000</delay>
+<cid>4684888</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Dallas</city>
+<checks_up>19353</checks_up>
+<checks_down>11733</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="176">
 <host>192.111.138.29</host>
 <ip>192.111.138.29</ip>
 <port>4145</port>
-<lastseen>274</lastseen>
+<lastseen>1097</lastseen>
 <delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -2700,11 +3186,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="150">
+<item id="177">
 <host>143.42.66.91</host>
 <ip>143.42.66.91</ip>
 <port>80</port>
-<lastseen>274</lastseen>
+<lastseen>1097</lastseen>
 <delay>2460</delay>
 <cid>1880252</cid>
 <country_code>SG</country_code>
@@ -2718,29 +3204,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="151">
-<host>188.40.57.101</host>
-<ip>188.40.57.101</ip>
-<port>80</port>
-<lastseen>274</lastseen>
-<delay>560</delay>
-<cid>2927913</cid>
-<country_code>DE</country_code>
-<country_name>Germany</country_name>
-<city>Falkenstein</city>
-<checks_up>557</checks_up>
-<checks_down>34</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="152">
+<item id="178">
 <host>171.236.91.181</host>
 <ip>171.236.91.181</ip>
 <port>1080</port>
-<lastseen>274</lastseen>
+<lastseen>1097</lastseen>
 <delay>1200</delay>
 <cid>1562822</cid>
 <country_code>VN</country_code>
@@ -2754,155 +3222,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="153">
-<host>192.252.220.89</host>
-<ip>192.252.220.89</ip>
-<port>4145</port>
-<lastseen>275</lastseen>
-<delay>1020</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>15792</checks_up>
-<checks_down>6369</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="154">
-<host>67.201.59.70</host>
-<ip>67.201.59.70</ip>
-<port>4145</port>
-<lastseen>275</lastseen>
-<delay>1020</delay>
-<cid>5351515</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Garden Grove</city>
-<checks_up>20543</checks_up>
-<checks_down>9790</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="155">
-<host>31.43.179.191</host>
-<ip>31.43.179.191</ip>
+<item id="179">
+<host>188.40.57.101</host>
+<ip>188.40.57.101</ip>
 <port>80</port>
-<lastseen>275</lastseen>
-<delay>40</delay>
-<cid>1522867</cid>
-<country_code>KZ</country_code>
-<country_name>Kazakstan</country_name>
-<city></city>
-<checks_up>12006</checks_up>
-<checks_down>462</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="156">
-<host>72.207.109.5</host>
-<ip>72.207.109.5</ip>
-<port>4145</port>
-<lastseen>275</lastseen>
-<delay>900</delay>
-<cid>5391811</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>San Diego</city>
-<checks_up>2708</checks_up>
-<checks_down>361</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="157">
-<host>183.250.170.85</host>
-<ip>183.250.170.85</ip>
-<port>9091</port>
-<lastseen>275</lastseen>
-<delay>1380</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>393</checks_up>
-<checks_down>39</checks_down>
+<lastseen>1097</lastseen>
+<delay>560</delay>
+<cid>2927913</cid>
+<country_code>DE</country_code>
+<country_name>Germany</country_name>
+<city>Falkenstein</city>
+<checks_up>557</checks_up>
+<checks_down>34</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="158">
-<host>172.64.145.158</host>
-<ip>172.64.145.158</ip>
-<port>80</port>
-<lastseen>275</lastseen>
-<delay>40</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>491</checks_up>
-<checks_down>337</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="159">
-<host>142.54.231.38</host>
-<ip>142.54.231.38</ip>
-<port>4145</port>
-<lastseen>275</lastseen>
-<delay>1020</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>19917</checks_up>
-<checks_down>12763</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="160">
-<host>68.71.249.158</host>
-<ip>68.71.249.158</ip>
-<port>4145</port>
-<lastseen>275</lastseen>
-<delay>1020</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>4923</checks_up>
-<checks_down>1394</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="161">
+<item id="180">
 <host>199.187.210.54</host>
 <ip>199.187.210.54</ip>
 <port>4145</port>
-<lastseen>275</lastseen>
+<lastseen>1098</lastseen>
 <delay>1020</delay>
 <cid>5368361</cid>
 <country_code>US</country_code>
@@ -2916,47 +3258,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="162">
-<host>142.54.232.6</host>
-<ip>142.54.232.6</ip>
-<port>4145</port>
-<lastseen>275</lastseen>
-<delay>1020</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>19391</checks_up>
-<checks_down>10772</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="163">
-<host>41.230.216.70</host>
-<ip>41.230.216.70</ip>
-<port>80</port>
-<lastseen>275</lastseen>
-<delay>280</delay>
-<cid>2464470</cid>
-<country_code>TN</country_code>
-<country_name>Tunisia</country_name>
-<city>Tunis</city>
-<checks_up>3099</checks_up>
-<checks_down>316</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="164">
+<item id="181">
 <host>68.71.240.210</host>
 <ip>68.71.240.210</ip>
 <port>4145</port>
-<lastseen>275</lastseen>
+<lastseen>1098</lastseen>
 <delay>1020</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -2970,29 +3276,137 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="165">
-<host>72.223.188.92</host>
-<ip>72.223.188.92</ip>
+<item id="182">
+<host>142.54.231.38</host>
+<ip>142.54.231.38</ip>
 <port>4145</port>
-<lastseen>275</lastseen>
-<delay>880</delay>
-<cid>5304391</cid>
+<lastseen>1098</lastseen>
+<delay>1020</delay>
+<cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city>Mesa</city>
-<checks_up>1125</checks_up>
-<checks_down>34</checks_down>
+<city></city>
+<checks_up>19917</checks_up>
+<checks_down>12763</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="166">
+<item id="183">
+<host>192.252.220.89</host>
+<ip>192.252.220.89</ip>
+<port>4145</port>
+<lastseen>1098</lastseen>
+<delay>1020</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>15792</checks_up>
+<checks_down>6369</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="184">
+<host>68.71.249.158</host>
+<ip>68.71.249.158</ip>
+<port>4145</port>
+<lastseen>1098</lastseen>
+<delay>1020</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>4923</checks_up>
+<checks_down>1394</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="185">
+<host>67.201.59.70</host>
+<ip>67.201.59.70</ip>
+<port>4145</port>
+<lastseen>1098</lastseen>
+<delay>1020</delay>
+<cid>5351515</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Garden Grove</city>
+<checks_up>20543</checks_up>
+<checks_down>9790</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="186">
+<host>41.230.216.70</host>
+<ip>41.230.216.70</ip>
+<port>80</port>
+<lastseen>1098</lastseen>
+<delay>280</delay>
+<cid>2464470</cid>
+<country_code>TN</country_code>
+<country_name>Tunisia</country_name>
+<city>Tunis</city>
+<checks_up>3099</checks_up>
+<checks_down>316</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="187">
+<host>142.54.232.6</host>
+<ip>142.54.232.6</ip>
+<port>4145</port>
+<lastseen>1098</lastseen>
+<delay>1020</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>19391</checks_up>
+<checks_down>10772</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="188">
+<host>183.250.170.85</host>
+<ip>183.250.170.85</ip>
+<port>9091</port>
+<lastseen>1098</lastseen>
+<delay>1380</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>393</checks_up>
+<checks_down>39</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="189">
 <host>97.74.87.226</host>
 <ip>97.74.87.226</ip>
 <port>80</port>
-<lastseen>275</lastseen>
+<lastseen>1098</lastseen>
 <delay>2160</delay>
 <cid>1880252</cid>
 <country_code>SG</country_code>
@@ -3006,83 +3420,83 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="167">
-<host>192.111.134.10</host>
-<ip>192.111.134.10</ip>
+<item id="190">
+<host>72.207.109.5</host>
+<ip>72.207.109.5</ip>
 <port>4145</port>
-<lastseen>276</lastseen>
-<delay>1020</delay>
-<cid>6251999</cid>
-<country_code>CA</country_code>
-<country_name>Canada</country_name>
-<city></city>
-<checks_up>23374</checks_up>
-<checks_down>11746</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="168">
-<host>192.111.137.37</host>
-<ip>192.111.137.37</ip>
-<port>18762</port>
-<lastseen>276</lastseen>
-<delay>920</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>36432</checks_up>
-<checks_down>29372</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="169">
-<host>184.170.251.30</host>
-<ip>184.170.251.30</ip>
-<port>11288</port>
-<lastseen>276</lastseen>
+<lastseen>1098</lastseen>
 <delay>900</delay>
-<cid>6252001</cid>
+<cid>5391811</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city></city>
-<checks_up>1934</checks_up>
-<checks_down>855</checks_down>
+<city>San Diego</city>
+<checks_up>2708</checks_up>
+<checks_down>361</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="170">
-<host>68.71.247.130</host>
-<ip>68.71.247.130</ip>
-<port>4145</port>
-<lastseen>276</lastseen>
-<delay>2060</delay>
-<cid>5950267</cid>
+<item id="191">
+<host>31.43.179.191</host>
+<ip>31.43.179.191</ip>
+<port>80</port>
+<lastseen>1098</lastseen>
+<delay>40</delay>
+<cid>1522867</cid>
+<country_code>KZ</country_code>
+<country_name>Kazakstan</country_name>
+<city></city>
+<checks_up>12006</checks_up>
+<checks_down>462</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="192">
+<host>172.64.145.158</host>
+<ip>172.64.145.158</ip>
+<port>80</port>
+<lastseen>1098</lastseen>
+<delay>40</delay>
+<cid>0</cid>
 <country_code></country_code>
 <country_name></country_name>
 <city></city>
-<checks_up>32410</checks_up>
-<checks_down>12396</checks_down>
+<checks_up>491</checks_up>
+<checks_down>337</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="193">
+<host>72.223.188.92</host>
+<ip>72.223.188.92</ip>
+<port>4145</port>
+<lastseen>1098</lastseen>
+<delay>880</delay>
+<cid>5304391</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Mesa</city>
+<checks_up>1125</checks_up>
+<checks_down>34</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="171">
+<item id="194">
 <host>192.252.209.155</host>
 <ip>192.252.209.155</ip>
 <port>14455</port>
-<lastseen>276</lastseen>
+<lastseen>1099</lastseen>
 <delay>900</delay>
 <cid>6167865</cid>
 <country_code>CA</country_code>
@@ -3096,29 +3510,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="172">
-<host>139.162.78.109</host>
-<ip>139.162.78.109</ip>
-<port>8080</port>
-<lastseen>276</lastseen>
-<delay>1100</delay>
-<cid>1850147</cid>
-<country_code>JP</country_code>
-<country_name>Japan</country_name>
-<city>Tokyo</city>
-<checks_up>1013</checks_up>
-<checks_down>287</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="173">
+<item id="195">
 <host>98.170.57.231</host>
 <ip>98.170.57.231</ip>
 <port>4145</port>
-<lastseen>276</lastseen>
+<lastseen>1099</lastseen>
 <delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -3132,29 +3528,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="174">
-<host>192.111.135.17</host>
-<ip>192.111.135.17</ip>
-<port>18302</port>
-<lastseen>276</lastseen>
-<delay>900</delay>
-<cid>5325866</cid>
+<item id="196">
+<host>192.111.137.37</host>
+<ip>192.111.137.37</ip>
+<port>18762</port>
+<lastseen>1099</lastseen>
+<delay>920</delay>
+<cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city>Baldwin Park</city>
-<checks_up>33912</checks_up>
-<checks_down>31102</checks_down>
+<city></city>
+<checks_up>36432</checks_up>
+<checks_down>29372</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="175">
+<item id="197">
 <host>142.54.229.249</host>
 <ip>142.54.229.249</ip>
 <port>4145</port>
-<lastseen>276</lastseen>
+<lastseen>1099</lastseen>
 <delay>1020</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -3168,65 +3564,83 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="176">
-<host>68.71.243.14</host>
-<ip>68.71.243.14</ip>
-<port>4145</port>
-<lastseen>276</lastseen>
-<delay>1040</delay>
-<cid>6252001</cid>
+<item id="198">
+<host>192.111.135.17</host>
+<ip>192.111.135.17</ip>
+<port>18302</port>
+<lastseen>1099</lastseen>
+<delay>900</delay>
+<cid>5325866</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city></city>
-<checks_up>7002</checks_up>
-<checks_down>1419</checks_down>
+<city>Baldwin Park</city>
+<checks_up>33912</checks_up>
+<checks_down>31102</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="177">
-<host>199.102.106.94</host>
-<ip>199.102.106.94</ip>
-<port>4145</port>
-<lastseen>276</lastseen>
-<delay>1000</delay>
+<item id="199">
+<host>184.170.251.30</host>
+<ip>184.170.251.30</ip>
+<port>11288</port>
+<lastseen>1099</lastseen>
+<delay>900</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>20286</checks_up>
-<checks_down>11030</checks_down>
+<checks_up>1934</checks_up>
+<checks_down>855</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="178">
-<host>199.102.104.70</host>
-<ip>199.102.104.70</ip>
+<item id="200">
+<host>68.71.247.130</host>
+<ip>68.71.247.130</ip>
 <port>4145</port>
-<lastseen>276</lastseen>
-<delay>1040</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
+<lastseen>1099</lastseen>
+<delay>2060</delay>
+<cid>5950267</cid>
+<country_code></country_code>
+<country_name></country_name>
 <city></city>
-<checks_up>20041</checks_up>
-<checks_down>10623</checks_down>
+<checks_up>32410</checks_up>
+<checks_down>12396</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="179">
+<item id="201">
+<host>192.111.134.10</host>
+<ip>192.111.134.10</ip>
+<port>4145</port>
+<lastseen>1099</lastseen>
+<delay>1020</delay>
+<cid>6251999</cid>
+<country_code>CA</country_code>
+<country_name>Canada</country_name>
+<city></city>
+<checks_up>23374</checks_up>
+<checks_down>11746</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="202">
 <host>68.71.242.118</host>
 <ip>68.71.242.118</ip>
 <port>4145</port>
-<lastseen>276</lastseen>
+<lastseen>1099</lastseen>
 <delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -3240,11 +3654,47 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="180">
+<item id="203">
+<host>199.102.106.94</host>
+<ip>199.102.106.94</ip>
+<port>4145</port>
+<lastseen>1099</lastseen>
+<delay>1000</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>20286</checks_up>
+<checks_down>11030</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="204">
+<host>68.71.243.14</host>
+<ip>68.71.243.14</ip>
+<port>4145</port>
+<lastseen>1099</lastseen>
+<delay>1040</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>7002</checks_up>
+<checks_down>1419</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="205">
 <host>199.116.114.11</host>
 <ip>199.116.114.11</ip>
 <port>4145</port>
-<lastseen>276</lastseen>
+<lastseen>1099</lastseen>
 <delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -3258,209 +3708,47 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="181">
-<host>206.220.175.2</host>
-<ip>206.220.175.2</ip>
+<item id="206">
+<host>199.102.104.70</host>
+<ip>199.102.104.70</ip>
 <port>4145</port>
-<lastseen>277</lastseen>
-<delay>1000</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>24527</checks_up>
-<checks_down>7921</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="182">
-<host>141.101.123.77</host>
-<ip>141.101.123.77</ip>
-<port>80</port>
-<lastseen>277</lastseen>
-<delay>80</delay>
-<cid>6255149</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>9870</checks_up>
-<checks_down>345</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="183">
-<host>107.181.168.145</host>
-<ip>107.181.168.145</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
+<lastseen>1099</lastseen>
 <delay>1040</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>17182</checks_up>
-<checks_down>12627</checks_down>
+<checks_up>20041</checks_up>
+<checks_down>10623</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="184">
-<host>172.64.78.69</host>
-<ip>172.64.78.69</ip>
-<port>80</port>
-<lastseen>277</lastseen>
-<delay>680</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>2550</checks_up>
-<checks_down>38</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="185">
-<host>72.37.217.3</host>
-<ip>72.37.217.3</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>1000</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>29852</checks_up>
-<checks_down>11527</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="186">
-<host>98.188.47.150</host>
-<ip>98.188.47.150</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>880</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>51295</checks_up>
-<checks_down>28907</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="187">
-<host>67.201.33.10</host>
-<ip>67.201.33.10</ip>
-<port>25283</port>
-<lastseen>277</lastseen>
-<delay>1000</delay>
-<cid>5382496</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Pico Rivera</city>
-<checks_up>57279</checks_up>
-<checks_down>19195</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="188">
-<host>107.181.161.81</host>
-<ip>107.181.161.81</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>980</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>17023</checks_up>
-<checks_down>12884</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="189">
-<host>192.111.139.165</host>
-<ip>192.111.139.165</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>900</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>49309</checks_up>
-<checks_down>34361</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="190">
-<host>162.253.68.97</host>
-<ip>162.253.68.97</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>1020</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>14888</checks_up>
-<checks_down>8924</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="191">
-<host>161.35.70.249</host>
-<ip>161.35.70.249</ip>
+<item id="207">
+<host>139.162.78.109</host>
+<ip>139.162.78.109</ip>
 <port>8080</port>
-<lastseen>277</lastseen>
-<delay>580</delay>
-<cid>2925533</cid>
-<country_code>DE</country_code>
-<country_name>Germany</country_name>
-<city>Frankfurt am Main</city>
-<checks_up>1921</checks_up>
-<checks_down>733</checks_down>
+<lastseen>1099</lastseen>
+<delay>1100</delay>
+<cid>1850147</cid>
+<country_code>JP</country_code>
+<country_name>Japan</country_name>
+<city>Tokyo</city>
+<checks_up>1013</checks_up>
+<checks_down>287</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="192">
+<item id="208">
 <host>98.191.0.37</host>
 <ip>98.191.0.37</ip>
 <port>4145</port>
-<lastseen>277</lastseen>
+<lastseen>1100</lastseen>
 <delay>880</delay>
 <cid>5289282</cid>
 <country_code>US</country_code>
@@ -3474,83 +3762,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="193">
-<host>103.118.46.61</host>
-<ip>103.118.46.61</ip>
-<port>8080</port>
-<lastseen>277</lastseen>
-<delay>900</delay>
-<cid>1831722</cid>
-<country_code>KH</country_code>
-<country_name>Cambodia</country_name>
-<city></city>
-<checks_up>8787</checks_up>
-<checks_down>5918</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="194">
-<host>47.76.26.123</host>
-<ip>47.76.26.123</ip>
-<port>1011</port>
-<lastseen>277</lastseen>
-<delay>5100</delay>
-<cid>1819729</cid>
-<country_code>HK</country_code>
-<country_name>Hong Kong</country_name>
-<city>Hong Kong</city>
-<checks_up>75</checks_up>
-<checks_down>61</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>1</socks5>
-</item>
-<item id="195">
-<host>142.54.236.97</host>
-<ip>142.54.236.97</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>1000</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>17597</checks_up>
-<checks_down>10312</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="196">
-<host>67.201.39.14</host>
-<ip>67.201.39.14</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>1000</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>5161</checks_up>
-<checks_down>1400</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="197">
+<item id="209">
 <host>104.37.135.145</host>
 <ip>104.37.135.145</ip>
 <port>4145</port>
-<lastseen>277</lastseen>
+<lastseen>1100</lastseen>
 <delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -3564,11 +3780,29 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="198">
+<item id="210">
+<host>141.101.123.77</host>
+<ip>141.101.123.77</ip>
+<port>80</port>
+<lastseen>1100</lastseen>
+<delay>80</delay>
+<cid>6255149</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>9870</checks_up>
+<checks_down>345</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="211">
 <host>142.54.237.38</host>
 <ip>142.54.237.38</ip>
 <port>4145</port>
-<lastseen>277</lastseen>
+<lastseen>1100</lastseen>
 <delay>1000</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -3582,29 +3816,119 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="199">
-<host>68.71.252.38</host>
-<ip>68.71.252.38</ip>
-<port>4145</port>
-<lastseen>277</lastseen>
-<delay>980</delay>
-<cid>6252001</cid>
+<item id="212">
+<host>67.201.33.10</host>
+<ip>67.201.33.10</ip>
+<port>25283</port>
+<lastseen>1100</lastseen>
+<delay>1000</delay>
+<cid>5382496</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city></city>
-<checks_up>5427</checks_up>
-<checks_down>1429</checks_down>
+<city>Pico Rivera</city>
+<checks_up>57279</checks_up>
+<checks_down>19195</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="200">
+<item id="213">
+<host>107.181.161.81</host>
+<ip>107.181.161.81</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>980</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>17023</checks_up>
+<checks_down>12884</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="214">
+<host>98.188.47.150</host>
+<ip>98.188.47.150</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>880</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>51295</checks_up>
+<checks_down>28907</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="215">
+<host>192.111.139.165</host>
+<ip>192.111.139.165</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>900</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>49309</checks_up>
+<checks_down>34361</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="216">
+<host>47.76.26.123</host>
+<ip>47.76.26.123</ip>
+<port>1011</port>
+<lastseen>1100</lastseen>
+<delay>5100</delay>
+<cid>1819729</cid>
+<country_code>HK</country_code>
+<country_name>Hong Kong</country_name>
+<city>Hong Kong</city>
+<checks_up>75</checks_up>
+<checks_down>61</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>1</socks5>
+</item>
+<item id="217">
+<host>162.253.68.97</host>
+<ip>162.253.68.97</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>1020</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>14888</checks_up>
+<checks_down>8924</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="218">
 <host>72.223.188.67</host>
 <ip>72.223.188.67</ip>
 <port>4145</port>
-<lastseen>277</lastseen>
+<lastseen>1100</lastseen>
 <delay>880</delay>
 <cid>5304391</cid>
 <country_code>US</country_code>
@@ -3618,29 +3942,173 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="201">
-<host>74.119.144.60</host>
-<ip>74.119.144.60</ip>
+<item id="219">
+<host>103.118.46.61</host>
+<ip>103.118.46.61</ip>
+<port>8080</port>
+<lastseen>1100</lastseen>
+<delay>900</delay>
+<cid>1831722</cid>
+<country_code>KH</country_code>
+<country_name>Cambodia</country_name>
+<city></city>
+<checks_up>8787</checks_up>
+<checks_down>5918</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="220">
+<host>107.181.168.145</host>
+<ip>107.181.168.145</ip>
 <port>4145</port>
-<lastseen>278</lastseen>
-<delay>940</delay>
+<lastseen>1100</lastseen>
+<delay>1040</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
 <city></city>
-<checks_up>26765</checks_up>
-<checks_down>19823</checks_down>
+<checks_up>17182</checks_up>
+<checks_down>12627</checks_down>
 <anon>4</anon>
 <http>0</http>
 <ssl>0</ssl>
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="202">
+<item id="221">
+<host>161.35.70.249</host>
+<ip>161.35.70.249</ip>
+<port>8080</port>
+<lastseen>1100</lastseen>
+<delay>580</delay>
+<cid>2925533</cid>
+<country_code>DE</country_code>
+<country_name>Germany</country_name>
+<city>Frankfurt am Main</city>
+<checks_up>1921</checks_up>
+<checks_down>733</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="222">
+<host>172.64.78.69</host>
+<ip>172.64.78.69</ip>
+<port>80</port>
+<lastseen>1100</lastseen>
+<delay>680</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>2550</checks_up>
+<checks_down>38</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="223">
+<host>206.220.175.2</host>
+<ip>206.220.175.2</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>1000</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>24527</checks_up>
+<checks_down>7921</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="224">
+<host>142.54.236.97</host>
+<ip>142.54.236.97</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>1000</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>17597</checks_up>
+<checks_down>10312</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="225">
+<host>67.201.39.14</host>
+<ip>67.201.39.14</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>1000</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>5161</checks_up>
+<checks_down>1400</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="226">
+<host>68.71.252.38</host>
+<ip>68.71.252.38</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>980</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>5427</checks_up>
+<checks_down>1429</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="227">
+<host>72.37.217.3</host>
+<ip>72.37.217.3</ip>
+<port>4145</port>
+<lastseen>1100</lastseen>
+<delay>1000</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>29852</checks_up>
+<checks_down>11527</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="228">
 <host>209.97.150.167</host>
 <ip>209.97.150.167</ip>
 <port>8080</port>
-<lastseen>278</lastseen>
+<lastseen>1101</lastseen>
 <delay>540</delay>
 <cid>5096699</cid>
 <country_code>US</country_code>
@@ -3654,29 +4122,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="203">
-<host>89.58.55.33</host>
-<ip>89.58.55.33</ip>
-<port>80</port>
-<lastseen>278</lastseen>
-<delay>300</delay>
-<cid>2861650</cid>
-<country_code>DE</country_code>
-<country_name>Germany</country_name>
-<city>Nuremberg</city>
-<checks_up>887</checks_up>
-<checks_down>592</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="204">
+<item id="229">
 <host>213.143.113.82</host>
 <ip>213.143.113.82</ip>
 <port>80</port>
-<lastseen>278</lastseen>
+<lastseen>1101</lastseen>
 <delay>200</delay>
 <cid>2761369</cid>
 <country_code>AT</country_code>
@@ -3690,47 +4140,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="205">
-<host>98.170.57.241</host>
-<ip>98.170.57.241</ip>
-<port>4145</port>
-<lastseen>278</lastseen>
-<delay>880</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>9381</checks_up>
-<checks_down>4878</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="206">
-<host>24.249.199.12</host>
-<ip>24.249.199.12</ip>
-<port>4145</port>
-<lastseen>278</lastseen>
-<delay>920</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>56846</checks_up>
-<checks_down>29692</checks_down>
-<anon>4</anon>
-<http>0</http>
-<ssl>0</ssl>
-<socks4>1</socks4>
-<socks5>0</socks5>
-</item>
-<item id="207">
+<item id="230">
 <host>190.58.248.86</host>
 <ip>190.58.248.86</ip>
 <port>80</port>
-<lastseen>278</lastseen>
+<lastseen>1101</lastseen>
 <delay>800</delay>
 <cid>3573727</cid>
 <country_code>TT</country_code>
@@ -3744,11 +4158,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="208">
+<item id="231">
+<host>98.170.57.241</host>
+<ip>98.170.57.241</ip>
+<port>4145</port>
+<lastseen>1101</lastseen>
+<delay>880</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>9381</checks_up>
+<checks_down>4878</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="232">
 <host>172.65.90.3</host>
 <ip>172.65.90.3</ip>
 <port>80</port>
-<lastseen>278</lastseen>
+<lastseen>1101</lastseen>
 <delay>1260</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -3762,11 +4194,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="209">
+<item id="233">
+<host>24.249.199.12</host>
+<ip>24.249.199.12</ip>
+<port>4145</port>
+<lastseen>1101</lastseen>
+<delay>920</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>56846</checks_up>
+<checks_down>29692</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="234">
 <host>172.64.78.193</host>
 <ip>172.64.78.193</ip>
 <port>80</port>
-<lastseen>278</lastseen>
+<lastseen>1101</lastseen>
 <delay>820</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -3780,83 +4230,47 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="210">
-<host>64.110.82.7</host>
-<ip>64.110.82.7</ip>
-<port>8080</port>
-<lastseen>279</lastseen>
-<delay>1140</delay>
-<cid>1835848</cid>
-<country_code>KR</country_code>
-<country_name>Korea</country_name>
-<city>Seoul</city>
-<checks_up>873</checks_up>
-<checks_down>32</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="211">
-<host>221.231.13.198</host>
-<ip>221.231.13.198</ip>
-<port>1080</port>
-<lastseen>279</lastseen>
-<delay>1480</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
+<item id="235">
+<host>74.119.144.60</host>
+<ip>74.119.144.60</ip>
+<port>4145</port>
+<lastseen>1101</lastseen>
+<delay>940</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
 <city></city>
-<checks_up>26882</checks_up>
-<checks_down>8683</checks_down>
+<checks_up>26765</checks_up>
+<checks_down>19823</checks_down>
+<anon>4</anon>
+<http>0</http>
+<ssl>0</ssl>
+<socks4>1</socks4>
+<socks5>0</socks5>
+</item>
+<item id="236">
+<host>89.58.55.33</host>
+<ip>89.58.55.33</ip>
+<port>80</port>
+<lastseen>1101</lastseen>
+<delay>300</delay>
+<cid>2861650</cid>
+<country_code>DE</country_code>
+<country_name>Germany</country_name>
+<city>Nuremberg</city>
+<checks_up>887</checks_up>
+<checks_down>592</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="212">
-<host>218.75.224.4</host>
-<ip>218.75.224.4</ip>
-<port>3309</port>
-<lastseen>279</lastseen>
-<delay>1500</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>2571</checks_up>
-<checks_down>225</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="213">
-<host>170.244.26.206</host>
-<ip>170.244.26.206</ip>
-<port>8888</port>
-<lastseen>279</lastseen>
-<delay>1360</delay>
-<cid>3466767</cid>
-<country_code>BR</country_code>
-<country_name>Brazil</country_name>
-<city>Caseiros</city>
-<checks_up>429</checks_up>
-<checks_down>20</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="214">
+<item id="237">
 <host>134.209.29.120</host>
 <ip>134.209.29.120</ip>
 <port>80</port>
-<lastseen>279</lastseen>
+<lastseen>1102</lastseen>
 <delay>300</delay>
 <cid>2637627</cid>
 <country_code>GB</country_code>
@@ -3870,11 +4284,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="215">
+<item id="238">
+<host>218.75.224.4</host>
+<ip>218.75.224.4</ip>
+<port>3309</port>
+<lastseen>1102</lastseen>
+<delay>1500</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>2571</checks_up>
+<checks_down>225</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="239">
 <host>50.122.86.118</host>
 <ip>50.122.86.118</ip>
 <port>80</port>
-<lastseen>279</lastseen>
+<lastseen>1102</lastseen>
 <delay>560</delay>
 <cid>4889426</cid>
 <country_code>US</country_code>
@@ -3888,65 +4320,65 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="216">
-<host>170.244.26.195</host>
-<ip>170.244.26.195</ip>
-<port>8888</port>
-<lastseen>280</lastseen>
-<delay>1360</delay>
-<cid>3466767</cid>
-<country_code>BR</country_code>
-<country_name>Brazil</country_name>
-<city>Caseiros</city>
-<checks_up>449</checks_up>
-<checks_down>16</checks_down>
+<item id="240">
+<host>221.231.13.198</host>
+<ip>221.231.13.198</ip>
+<port>1080</port>
+<lastseen>1102</lastseen>
+<delay>1480</delay>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>26882</checks_up>
+<checks_down>8683</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="217">
-<host>172.65.90.1</host>
-<ip>172.65.90.1</ip>
-<port>80</port>
-<lastseen>280</lastseen>
-<delay>1280</delay>
-<cid>0</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>2747</checks_up>
-<checks_down>37</checks_down>
+<item id="241">
+<host>64.110.82.7</host>
+<ip>64.110.82.7</ip>
+<port>8080</port>
+<lastseen>1102</lastseen>
+<delay>1140</delay>
+<cid>1835848</cid>
+<country_code>KR</country_code>
+<country_name>Korea</country_name>
+<city>Seoul</city>
+<checks_up>873</checks_up>
+<checks_down>32</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="218">
-<host>170.244.27.61</host>
-<ip>170.244.27.61</ip>
+<item id="242">
+<host>170.244.26.206</host>
+<ip>170.244.26.206</ip>
 <port>8888</port>
-<lastseen>280</lastseen>
-<delay>1340</delay>
+<lastseen>1102</lastseen>
+<delay>1360</delay>
 <cid>3466767</cid>
 <country_code>BR</country_code>
 <country_name>Brazil</country_name>
 <city>Caseiros</city>
-<checks_up>432</checks_up>
-<checks_down>18</checks_down>
+<checks_up>429</checks_up>
+<checks_down>20</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="219">
+<item id="243">
 <host>113.108.13.120</host>
 <ip>113.108.13.120</ip>
 <port>8083</port>
-<lastseen>280</lastseen>
+<lastseen>1103</lastseen>
 <delay>1620</delay>
 <cid>1814991</cid>
 <country_code>CN</country_code>
@@ -3960,11 +4392,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="220">
+<item id="244">
+<host>170.244.27.61</host>
+<ip>170.244.27.61</ip>
+<port>8888</port>
+<lastseen>1103</lastseen>
+<delay>1340</delay>
+<cid>3466767</cid>
+<country_code>BR</country_code>
+<country_name>Brazil</country_name>
+<city>Caseiros</city>
+<checks_up>432</checks_up>
+<checks_down>18</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="245">
 <host>172.64.78.71</host>
 <ip>172.64.78.71</ip>
 <port>80</port>
-<lastseen>280</lastseen>
+<lastseen>1103</lastseen>
 <delay>220</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -3978,83 +4428,47 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="221">
-<host>42.98.217.65</host>
-<ip>42.98.217.65</ip>
+<item id="246">
+<host>170.244.26.195</host>
+<ip>170.244.26.195</ip>
 <port>8888</port>
-<lastseen>281</lastseen>
-<delay>840</delay>
-<cid>1819730</cid>
-<country_code>HK</country_code>
-<country_name>Hong Kong</country_name>
-<city></city>
-<checks_up>278</checks_up>
-<checks_down>46</checks_down>
+<lastseen>1103</lastseen>
+<delay>1360</delay>
+<cid>3466767</cid>
+<country_code>BR</country_code>
+<country_name>Brazil</country_name>
+<city>Caseiros</city>
+<checks_up>449</checks_up>
+<checks_down>16</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="222">
-<host>141.101.90.99</host>
-<ip>141.101.90.99</ip>
+<item id="247">
+<host>172.65.90.1</host>
+<ip>172.65.90.1</ip>
 <port>80</port>
-<lastseen>281</lastseen>
-<delay>200</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
+<lastseen>1103</lastseen>
+<delay>1280</delay>
+<cid>0</cid>
+<country_code></country_code>
+<country_name></country_name>
 <city></city>
-<checks_up>9039</checks_up>
-<checks_down>93</checks_down>
+<checks_up>2747</checks_up>
+<checks_down>37</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="223">
-<host>8.219.77.141</host>
-<ip>8.219.77.141</ip>
-<port>80</port>
-<lastseen>281</lastseen>
-<delay>1120</delay>
-<cid>1880251</cid>
-<country_code>SG</country_code>
-<country_name>Singapore</country_name>
-<city></city>
-<checks_up>9065</checks_up>
-<checks_down>100</checks_down>
-<anon>3</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="224">
-<host>62.99.138.162</host>
-<ip>62.99.138.162</ip>
-<port>80</port>
-<lastseen>281</lastseen>
-<delay>200</delay>
-<cid>2761369</cid>
-<country_code>AT</country_code>
-<country_name>Austria</country_name>
-<city>Vienna</city>
-<checks_up>12378</checks_up>
-<checks_down>169</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="225">
+<item id="248">
 <host>37.18.73.60</host>
 <ip>37.18.73.60</ip>
 <port>5566</port>
-<lastseen>281</lastseen>
+<lastseen>1104</lastseen>
 <delay>300</delay>
 <cid>2017370</cid>
 <country_code>RU</country_code>
@@ -4068,29 +4482,83 @@
 <socks4>1</socks4>
 <socks5>1</socks5>
 </item>
-<item id="226">
-<host>18.216.55.100</host>
-<ip>18.216.55.100</ip>
+<item id="249">
+<host>62.99.138.162</host>
+<ip>62.99.138.162</ip>
 <port>80</port>
-<lastseen>282</lastseen>
-<delay>620</delay>
-<cid>4509177</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Columbus</city>
-<checks_up>1177</checks_up>
-<checks_down>29</checks_down>
+<lastseen>1104</lastseen>
+<delay>200</delay>
+<cid>2761369</cid>
+<country_code>AT</country_code>
+<country_name>Austria</country_name>
+<city>Vienna</city>
+<checks_up>12378</checks_up>
+<checks_down>169</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="250">
+<host>8.219.77.141</host>
+<ip>8.219.77.141</ip>
+<port>80</port>
+<lastseen>1104</lastseen>
+<delay>1120</delay>
+<cid>1880251</cid>
+<country_code>SG</country_code>
+<country_name>Singapore</country_name>
+<city></city>
+<checks_up>9065</checks_up>
+<checks_down>100</checks_down>
 <anon>3</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="227">
+<item id="251">
+<host>141.101.90.99</host>
+<ip>141.101.90.99</ip>
+<port>80</port>
+<lastseen>1104</lastseen>
+<delay>200</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>9039</checks_up>
+<checks_down>93</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="252">
+<host>42.98.217.65</host>
+<ip>42.98.217.65</ip>
+<port>8888</port>
+<lastseen>1104</lastseen>
+<delay>840</delay>
+<cid>1819730</cid>
+<country_code>HK</country_code>
+<country_name>Hong Kong</country_name>
+<city></city>
+<checks_up>278</checks_up>
+<checks_down>46</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="253">
 <host>34.194.41.221</host>
 <ip>34.194.41.221</ip>
 <port>80</port>
-<lastseen>282</lastseen>
+<lastseen>1105</lastseen>
 <delay>520</delay>
 <cid>4744870</cid>
 <country_code>US</country_code>
@@ -4104,101 +4572,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="228">
-<host>68.185.57.66</host>
-<ip>68.185.57.66</ip>
+<item id="254">
+<host>18.216.55.100</host>
+<ip>18.216.55.100</ip>
 <port>80</port>
-<lastseen>282</lastseen>
-<delay>680</delay>
-<cid>5816605</cid>
+<lastseen>1105</lastseen>
+<delay>620</delay>
+<cid>4509177</cid>
 <country_code>US</country_code>
 <country_name>United States</country_name>
-<city>Yakima</city>
-<checks_up>23785</checks_up>
-<checks_down>543</checks_down>
-<anon>4</anon>
+<city>Columbus</city>
+<checks_up>1177</checks_up>
+<checks_down>29</checks_down>
+<anon>3</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="229">
-<host>4.195.16.140</host>
-<ip>4.195.16.140</ip>
-<port>80</port>
-<lastseen>282</lastseen>
-<delay>1100</delay>
-<cid>2147714</cid>
-<country_code>AU</country_code>
-<country_name>Australia</country_name>
-<city>Sydney</city>
-<checks_up>2233</checks_up>
-<checks_down>60</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="230">
-<host>32.223.6.94</host>
-<ip>32.223.6.94</ip>
-<port>80</port>
-<lastseen>282</lastseen>
-<delay>500</delay>
-<cid>4832353</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city>Danbury</city>
-<checks_up>14423</checks_up>
-<checks_down>143</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="231">
-<host>36.138.53.26</host>
-<ip>36.138.53.26</ip>
-<port>10017</port>
-<lastseen>282</lastseen>
-<delay>1040</delay>
-<cid>1814991</cid>
-<country_code>CN</country_code>
-<country_name>China</country_name>
-<city></city>
-<checks_up>1340</checks_up>
-<checks_down>140</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="232">
-<host>201.148.32.162</host>
-<ip>201.148.32.162</ip>
-<port>80</port>
-<lastseen>282</lastseen>
-<delay>680</delay>
-<cid>3824893</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>7392</checks_up>
-<checks_down>1571</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="233">
+<item id="255">
 <host>142.93.202.130</host>
 <ip>142.93.202.130</ip>
 <port>3128</port>
-<lastseen>282</lastseen>
+<lastseen>1105</lastseen>
 <delay>480</delay>
 <cid>5101879</cid>
 <country_code>US</country_code>
@@ -4212,119 +4608,101 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="234">
-<host>172.67.70.235</host>
-<ip>172.67.70.235</ip>
+<item id="256">
+<host>201.148.32.162</host>
+<ip>201.148.32.162</ip>
 <port>80</port>
-<lastseen>283</lastseen>
-<delay>100</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
+<lastseen>1105</lastseen>
+<delay>680</delay>
+<cid>3824893</cid>
+<country_code></country_code>
+<country_name></country_name>
 <city></city>
-<checks_up>8708</checks_up>
-<checks_down>345</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="235">
-<host>141.101.90.97</host>
-<ip>141.101.90.97</ip>
-<port>80</port>
-<lastseen>283</lastseen>
-<delay>240</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>8768</checks_up>
-<checks_down>103</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="236">
-<host>79.110.200.27</host>
-<ip>79.110.200.27</ip>
-<port>8000</port>
-<lastseen>283</lastseen>
-<delay>220</delay>
-<cid>3081368</cid>
-<country_code>PL</country_code>
-<country_name>Poland</country_name>
-<city>Wroclaw</city>
-<checks_up>1307</checks_up>
-<checks_down>770</checks_down>
+<checks_up>7392</checks_up>
+<checks_down>1571</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="237">
-<host>141.101.90.98</host>
-<ip>141.101.90.98</ip>
-<port>80</port>
-<lastseen>283</lastseen>
-<delay>160</delay>
-<cid>6252001</cid>
-<country_code>US</country_code>
-<country_name>United States</country_name>
-<city></city>
-<checks_up>8298</checks_up>
-<checks_down>91</checks_down>
-<anon>1</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="238">
-<host>179.96.28.58</host>
-<ip>179.96.28.58</ip>
-<port>80</port>
-<lastseen>283</lastseen>
+<item id="257">
+<host>36.138.53.26</host>
+<ip>36.138.53.26</ip>
+<port>10017</port>
+<lastseen>1105</lastseen>
 <delay>1040</delay>
-<cid>3462377</cid>
-<country_code>BR</country_code>
-<country_name>Brazil</country_name>
-<city>Goi?nia</city>
-<checks_up>734</checks_up>
-<checks_down>525</checks_down>
+<cid>1814991</cid>
+<country_code>CN</country_code>
+<country_name>China</country_name>
+<city></city>
+<checks_up>1340</checks_up>
+<checks_down>140</checks_down>
 <anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="239">
-<host>47.57.13.107</host>
-<ip>47.57.13.107</ip>
+<item id="258">
+<host>32.223.6.94</host>
+<ip>32.223.6.94</ip>
 <port>80</port>
-<lastseen>283</lastseen>
-<delay>820</delay>
-<cid>1819729</cid>
-<country_code>HK</country_code>
-<country_name>Hong Kong</country_name>
-<city>Hong Kong</city>
-<checks_up>1194</checks_up>
-<checks_down>263</checks_down>
-<anon>3</anon>
+<lastseen>1105</lastseen>
+<delay>500</delay>
+<cid>4832353</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Danbury</city>
+<checks_up>14423</checks_up>
+<checks_down>143</checks_down>
+<anon>4</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="240">
+<item id="259">
+<host>4.195.16.140</host>
+<ip>4.195.16.140</ip>
+<port>80</port>
+<lastseen>1105</lastseen>
+<delay>1100</delay>
+<cid>2147714</cid>
+<country_code>AU</country_code>
+<country_name>Australia</country_name>
+<city>Sydney</city>
+<checks_up>2233</checks_up>
+<checks_down>60</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="260">
+<host>68.185.57.66</host>
+<ip>68.185.57.66</ip>
+<port>80</port>
+<lastseen>1105</lastseen>
+<delay>680</delay>
+<cid>5816605</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city>Yakima</city>
+<checks_up>23785</checks_up>
+<checks_down>543</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="261">
 <host>172.64.78.198</host>
 <ip>172.64.78.198</ip>
 <port>80</port>
-<lastseen>283</lastseen>
+<lastseen>1106</lastseen>
 <delay>960</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -4338,47 +4716,119 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="241">
-<host>158.255.77.168</host>
-<ip>158.255.77.168</ip>
+<item id="262">
+<host>141.101.90.98</host>
+<ip>141.101.90.98</ip>
 <port>80</port>
-<lastseen>284</lastseen>
-<delay>640</delay>
-<cid>290557</cid>
-<country_code>AE</country_code>
-<country_name>United Arab Emirates</country_name>
+<lastseen>1106</lastseen>
+<delay>160</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
 <city></city>
-<checks_up>2944</checks_up>
-<checks_down>1734</checks_down>
-<anon>4</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="242">
-<host>141.101.123.178</host>
-<ip>141.101.123.178</ip>
-<port>80</port>
-<lastseen>284</lastseen>
-<delay>100</delay>
-<cid>6255149</cid>
-<country_code></country_code>
-<country_name></country_name>
-<city></city>
-<checks_up>9888</checks_up>
-<checks_down>347</checks_down>
+<checks_up>8298</checks_up>
+<checks_down>91</checks_down>
 <anon>1</anon>
 <http>1</http>
 <ssl>0</ssl>
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="243">
+<item id="263">
+<host>141.101.90.97</host>
+<ip>141.101.90.97</ip>
+<port>80</port>
+<lastseen>1106</lastseen>
+<delay>240</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>8768</checks_up>
+<checks_down>103</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="264">
+<host>79.110.200.27</host>
+<ip>79.110.200.27</ip>
+<port>8000</port>
+<lastseen>1106</lastseen>
+<delay>220</delay>
+<cid>3081368</cid>
+<country_code>PL</country_code>
+<country_name>Poland</country_name>
+<city>Wroclaw</city>
+<checks_up>1307</checks_up>
+<checks_down>770</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="265">
+<host>47.57.13.107</host>
+<ip>47.57.13.107</ip>
+<port>80</port>
+<lastseen>1106</lastseen>
+<delay>820</delay>
+<cid>1819729</cid>
+<country_code>HK</country_code>
+<country_name>Hong Kong</country_name>
+<city>Hong Kong</city>
+<checks_up>1194</checks_up>
+<checks_down>263</checks_down>
+<anon>3</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="266">
+<host>172.67.70.235</host>
+<ip>172.67.70.235</ip>
+<port>80</port>
+<lastseen>1106</lastseen>
+<delay>100</delay>
+<cid>6252001</cid>
+<country_code>US</country_code>
+<country_name>United States</country_name>
+<city></city>
+<checks_up>8708</checks_up>
+<checks_down>345</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="267">
+<host>179.96.28.58</host>
+<ip>179.96.28.58</ip>
+<port>80</port>
+<lastseen>1106</lastseen>
+<delay>1040</delay>
+<cid>3462377</cid>
+<country_code>BR</country_code>
+<country_name>Brazil</country_name>
+<city>Goi?nia</city>
+<checks_up>734</checks_up>
+<checks_down>525</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="268">
 <host>194.219.134.234</host>
 <ip>194.219.134.234</ip>
 <port>80</port>
-<lastseen>284</lastseen>
+<lastseen>1107</lastseen>
 <delay>320</delay>
 <cid>264371</cid>
 <country_code>GR</country_code>
@@ -4392,11 +4842,47 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="244">
+<item id="269">
+<host>158.255.77.168</host>
+<ip>158.255.77.168</ip>
+<port>80</port>
+<lastseen>1107</lastseen>
+<delay>640</delay>
+<cid>290557</cid>
+<country_code>AE</country_code>
+<country_name>United Arab Emirates</country_name>
+<city></city>
+<checks_up>2944</checks_up>
+<checks_down>1734</checks_down>
+<anon>4</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="270">
+<host>141.101.123.178</host>
+<ip>141.101.123.178</ip>
+<port>80</port>
+<lastseen>1107</lastseen>
+<delay>100</delay>
+<cid>6255149</cid>
+<country_code></country_code>
+<country_name></country_name>
+<city></city>
+<checks_up>9888</checks_up>
+<checks_down>347</checks_down>
+<anon>1</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="271">
 <host>172.67.70.21</host>
 <ip>172.67.70.21</ip>
 <port>80</port>
-<lastseen>285</lastseen>
+<lastseen>1108</lastseen>
 <delay>100</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -4410,29 +4896,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="245">
-<host>18.194.195.73</host>
-<ip>18.194.195.73</ip>
-<port>80</port>
-<lastseen>285</lastseen>
-<delay>200</delay>
-<cid>2925533</cid>
-<country_code>DE</country_code>
-<country_name>Germany</country_name>
-<city>Frankfurt am Main</city>
-<checks_up>364</checks_up>
-<checks_down>23</checks_down>
-<anon>3</anon>
-<http>1</http>
-<ssl>0</ssl>
-<socks4>0</socks4>
-<socks5>0</socks5>
-</item>
-<item id="246">
+<item id="272">
 <host>172.67.70.213</host>
 <ip>172.67.70.213</ip>
 <port>80</port>
-<lastseen>285</lastseen>
+<lastseen>1108</lastseen>
 <delay>100</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -4446,11 +4914,29 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="247">
+<item id="273">
+<host>18.194.195.73</host>
+<ip>18.194.195.73</ip>
+<port>80</port>
+<lastseen>1108</lastseen>
+<delay>200</delay>
+<cid>2925533</cid>
+<country_code>DE</country_code>
+<country_name>Germany</country_name>
+<city>Frankfurt am Main</city>
+<checks_up>364</checks_up>
+<checks_down>23</checks_down>
+<anon>3</anon>
+<http>1</http>
+<ssl>0</ssl>
+<socks4>0</socks4>
+<socks5>0</socks5>
+</item>
+<item id="274">
 <host>113.204.79.230</host>
 <ip>113.204.79.230</ip>
 <port>9091</port>
-<lastseen>413</lastseen>
+<lastseen>1236</lastseen>
 <delay>720</delay>
 <cid>1814991</cid>
 <country_code>CN</country_code>
@@ -4464,11 +4950,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="248">
+<item id="275">
 <host>45.12.30.131</host>
 <ip>45.12.30.131</ip>
 <port>80</port>
-<lastseen>414</lastseen>
+<lastseen>1237</lastseen>
 <delay>20</delay>
 <cid>798549</cid>
 <country_code>RO</country_code>
@@ -4482,11 +4968,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="249">
+<item id="276">
 <host>172.67.164.135</host>
 <ip>172.67.164.135</ip>
 <port>80</port>
-<lastseen>414</lastseen>
+<lastseen>1237</lastseen>
 <delay>100</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -4500,11 +4986,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="250">
+<item id="277">
 <host>141.101.123.151</host>
 <ip>141.101.123.151</ip>
 <port>80</port>
-<lastseen>414</lastseen>
+<lastseen>1237</lastseen>
 <delay>100</delay>
 <cid>6255149</cid>
 <country_code></country_code>
@@ -4518,11 +5004,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="251">
+<item id="278">
 <host>pppeoldf2.practicetechnologies.cw.zerolag.com</host>
 <ip>67.201.33.10</ip>
 <port>25283</port>
-<lastseen>2327</lastseen>
+<lastseen>3150</lastseen>
 <delay>1080</delay>
 <cid>5351515</cid>
 <country_code>US</country_code>
@@ -4536,11 +5022,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="252">
+<item id="279">
 <host>wsip-98-175-31-195.hr.hr.cox.net</host>
 <ip>98.175.31.195</ip>
 <port>4145</port>
-<lastseen>2808</lastseen>
+<lastseen>3631</lastseen>
 <delay>880</delay>
 <cid>4776222</cid>
 <country_code>US</country_code>
@@ -4554,11 +5040,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="253">
+<item id="280">
 <host>fuse-dedicated-66-42-224-229.fuse.net</host>
 <ip>66.42.224.229</ip>
 <port>41679</port>
-<lastseen>3284</lastseen>
+<lastseen>4107</lastseen>
 <delay>3080</delay>
 <cid>4528097</cid>
 <country_code></country_code>
@@ -4572,11 +5058,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="254">
+<item id="281">
 <host>babla.ru</host>
 <ip>8.47.69.6</ip>
 <port>80</port>
-<lastseen>3295</lastseen>
+<lastseen>4118</lastseen>
 <delay>100</delay>
 <cid>2761369</cid>
 <country_code>AT</country_code>
@@ -4590,11 +5076,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="255">
+<item id="282">
 <host>content.orange.be</host>
 <ip>141.101.90.97</ip>
 <port>80</port>
-<lastseen>4613</lastseen>
+<lastseen>5436</lastseen>
 <delay>200</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -4608,11 +5094,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="256">
+<item id="283">
 <host>jdoodle.com</host>
 <ip>8.47.69.6</ip>
 <port>80</port>
-<lastseen>5094</lastseen>
+<lastseen>5917</lastseen>
 <delay>80</delay>
 <cid>2761369</cid>
 <country_code>AT</country_code>
@@ -4626,11 +5112,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="257">
+<item id="284">
 <host>ip72-195-34-59.oc.oc.cox.net</host>
 <ip>72.195.34.59</ip>
 <port>4145</port>
-<lastseen>5447</lastseen>
+<lastseen>6270</lastseen>
 <delay>880</delay>
 <cid>6252001</cid>
 <country_code>US</country_code>
@@ -4644,11 +5130,11 @@
 <socks4>1</socks4>
 <socks5>0</socks5>
 </item>
-<item id="258">
+<item id="285">
 <host>au.api.cloudflare.com</host>
 <ip>172.65.90.0</ip>
 <port>80</port>
-<lastseen>6172</lastseen>
+<lastseen>6995</lastseen>
 <delay>1260</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -4662,11 +5148,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="259">
+<item id="286">
 <host>epos-crt.vertriebspartner.de.o2.com</host>
 <ip>141.101.90.97</ip>
 <port>80</port>
-<lastseen>6533</lastseen>
+<lastseen>7356</lastseen>
 <delay>260</delay>
 <cid>0</cid>
 <country_code></country_code>
@@ -4680,11 +5166,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="260">
+<item id="287">
 <host>www.quadrodigital.pt</host>
 <ip>141.101.90.99</ip>
 <port>80</port>
-<lastseen>9534</lastseen>
+<lastseen>10357</lastseen>
 <delay>240</delay>
 <cid>2759794</cid>
 <country_code>NL</country_code>
@@ -4698,11 +5184,11 @@
 <socks4>0</socks4>
 <socks5>0</socks5>
 </item>
-<item id="261">
+<item id="288">
 <host>au.api.staging.cloudflare.com</host>
 <ip>172.65.90.0</ip>
 <port>80</port>
-<lastseen>9652</lastseen>
+<lastseen>10475</lastseen>
 <delay>1300</delay>
 <cid>0</cid>
 <country_code></country_code>
