@@ -1,45 +1,22 @@
-
-		
-		<br><br>
-		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d9b8bdb4b0b799b1b0bdbcb4a0f7b7b8b4bc">[email&#160;protected]</a><br><br>
-		Please check back in 15 minutes.
-		We're busy updating the server.<br>
-		Мы заняты обновлением сервера.<br>
-		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2746434a4e49674f4e43424a5e0949464a42">[email&#160;protected]</a>
-		Пожалуйста, проверьте через 15 минут.<br>
-		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="553431383c3b153d3c3130382c7b3b343830">[email&#160;protected]</a>
-		我们正在更新服务器。<br>
-		请在2小时后再次查看。<br>
-	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
-	</div>
-	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
-	<h1>We'll be back.</h1>
-	<meta charset="UTF-8">
-	align-items: center;
-	color: #1C98D7;
-	display: flex;
-	flex-direction: column;
-	font-family: Arial;
-	height: 100%;
-	height: 100%;
-	justify-content: center;
-	margin: 0;
-	padding: 0;
-	text-align: center;
-.cd {
-</div>
-</head>
-</html>
-</style>
-<body>
-<div class="cd">
-<head>
-<html>
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
-<style>
-<title>Maintenance</title>
-a,a:visited{
-html,body {
-}
-}
-}
+103.189.63.149:53053
+106.13.58.110:8888
+111.61.73.175:7302
+117.161.170.163:9246
+117.161.170.163:9490
+134.209.29.120:1080
+149.202.94.235:9064
+203.25.208.163:1111
+209.38.83.56:1088
+221.1.104.177:7302
+221.202.27.194:10806
+222.59.173.105:44124
+222.59.173.105:44139
+222.59.173.105:44187
+222.59.173.105:44215
+37.18.73.60:5566
+37.200.67.75:1080
+46.229.66.241:1080
+47.243.94.125:1080
+47.79.20.192:1100
+47.82.76.243:1100
+58.22.60.174:1080
