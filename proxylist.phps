@@ -1,1 +1,45 @@
-error code: 522
+<html>
+<head>
+	<meta charset="UTF-8">
+<title>Maintenance</title>
+<style>
+html,body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+a,a:visited{
+	color: #1C98D7;
+}
+.cd {
+	font-family: Arial;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+}
+</style>
+</head>
+<body>
+<div class="cd">
+	<!--<img src="/media/images/logo_nodot.png" width="236" height="44" style="margin-bottom: 2em">-->
+	<h1>We'll be back.</h1>
+	<div style="line-height: 1.5; color: gray; margin-bottom: 4em">
+		We're busy updating the server.<br>
+		Please check back in 15 minutes.
+		<br>For urgent requests: <a href="https://t.me/hidemyname_bot">Support</a> in Telegram or <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c9a8ada4a0a789a1a0adaca4b0e7a7a8a4ac">[email&#160;protected]</a><br><br>
+		
+		Мы заняты обновлением сервера.<br>
+		Пожалуйста, проверьте через 15 минут.<br>
+		Наш <a href="https://t.me/hidemyname_ru">канал в Telegram</a>. Подпишитесь, чтобы получать уведомления о восстановлении работы сайта!<br>Для срочных запросов: <a href="https://t.me/hidemyname_bot">техническая поддержка</a> в Telegram или <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0f6e6b6266614f67666b6a627621616e626a">[email&#160;protected]</a>
+		<br><br>
+		我们正在更新服务器。<br>
+		请在2小时后再次查看。<br>
+		对于紧急请求：在Telegram中使用<a href="https://t.me/hidemyname_bot">支持</a>或<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="accdc8c1c5c2ecc4c5c8c9c1d582c2cdc1c9">[email&#160;protected]</a>
+
+	</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
