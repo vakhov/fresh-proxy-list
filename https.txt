@@ -1,1 +1,4 @@
-The MariaDB server is running with the --read-only=ON option so it cannot execute this statement
+110.242.70.68:443
+162.214.3.183:3128
+200.174.198.32:8888
+88.198.212.91:3128
